@@ -1,0 +1,7138 @@
+straight:12
+college:12
+cut:12
+dead:12
+hair:12
+telling:12
+due:12
+till:12
+nobody:12
+stay:12
+scared:12
+tbh:12
+beat:12
+support:12
+favorite:12
+30:12
+clear:12
+brother:12
+asking:12
+eye:12
+completely:12
+of	sort:12
+media:12
+extremely:12
+government:12
+middle:12
+body:12
+notice:12
+mad:12
+himself:12
+somewhere:12
+familiar:12
+happening:12
+questions:12
+relationship:12
+parents:12
+baby:12
+reading:12
+spend:12
+pic:12
+thoughts:12
+wish:12
+online:12
+food:12
+class:12
+common:12
+response:12
+miss:12
+enjoy:12
+dad:12
+chance:13
+shows:13
+although:13
+political:13
+fair:13
+downvoted:13
+deleted:13
+anybody:13
+learn:13
+gotten:13
+tv:13
+felt:13
+to	supposed:13
+death:13
+anyway:13
+party:13
+situation:13
+sad:13
+hot:13
+calling:13
+suddenly:13
+the	uk:12
+of	course:12
+city:13
+general:13
+considered:13
+strong:13
+wife:13
+early:13
+sweet:13
+whatever:13
+bowl:13
+watched:13
+doctor:13
+future:13
+human:13
+amazing:13
+especially:13
+break:13
+youtube:14
+related:14
+argument:14
+father:14
+others:14
+dumb:14
+the	whole:13
+terrible:14
+holy:14
+small:14
+players:14
+build:14
+posts:14
+opinion:14
+shot:14
+wall:14
+turn:14
+phone:14
+earlier:14
+funny:14
+black:14
+huge:15
+often:15
+needed:15
+large:15
+hand:15
+guessing:15
+takes:15
+brain:15
+meme:15
+month:15
+wanna:15
+gone:15
+yesterday:15
+gun:15
+knows:15
+per:15
+history:15
+level:15
+later:15
+experience:15
+living:15
+worse:15
+nice:16
+to	wants:12
+poor:16
+single:16
+ones:16
+number:16
+player:16
+actual:16
+ya:16
+fine:16
+area:16
+night:16
+drop:16
+words:16
+basically:16
+clearly:16
+outside:16
+wondered:16
+sound:16
+fucking:16
+themselves:16
+didnt:16
+alone:16
+meant:16
+taken:16
+the	worst:15
+late:17
+except:17
+glad:17
+young:17
+hours:17
+country:17
+source:17
+the	truth:12
+the	bottom:12
+quite:17
+obviously:17
+lmao:17
+mentioned:17
+boy:17
+normal:17
+working:17
+eat:17
+mom:17
+episode:17
+the	past:13
+the	half:14
+to	allowed:13
+out	figure:12
+looked:17
+gotta:17
+feeling:17
+asked:17
+the	internet:12
+water:17
+hurt:17
+low:17
+genuinely:17
+waiting:17
+changed:17
+picture:17
+absolutely:17
+entire:17
+matter:17
+red:17
+the	during:12
+agree:18
+couple:18
+serious:18
+fan:18
+shocking:18
+the	house:12
+the	leave:13
+forget:18
+power:18
+answer:18
+the	deal:12
+hasn:18
+the	of	rest:15
+played:18
+interested:18
+together:18
+rather:18
+to	wanted:15
+group:18
+of	out	curiosity:14
+told:19
+full:19
+feels:19
+considering:19
+to	able:19
+crazy:19
+the	amount:14
+of	amount:16
+to	needs:13
+anymore:19
+account:19
+moment:19
+the	word:15
+fun:19
+self:19
+become:19
+the	non:12
+the	white:12
+to	expect:12
+the	title:12
+eyes:20
+totally:20
+it	comes:13
+to	comes:13
+the	great:13
+each:20
+hit:20
+move:20
+it	possible:12
+the	possible:12
+three:20
+to	start:13
+important:20
+talk:20
+sometimes:20
+couldn:21
+stuff:21
+to	lose:12
+the	line:13
+came:21
+posted:21
+to	pay:13
+to	seem:13
+odd:21
+gets:21
+the	face:12
+says:21
+okay:21
+strange:21
+buy:21
+high:21
+care:21
+the	open:12
+pick:22
+lost:22
+hope:22
+similar:22
+thats:22
+watching:22
+the	months:12
+mine:22
+to	goes:12
+the	taking:12
+the	hell:16
+20:22
+the	age:15
+state:22
+to	tried:12
+on	side:12
+the	side:13
+the	cause:14
+learned:22
+the	article:17
+stupid:23
+the	missed:13
+the	making:13
+insane:23
+cant:23
+the	difference:12
+the	issue:16
+100:23
+the	car:13
+of	instead:15
+cool:24
+surprise:24
+playing:24
+movie:24
+dog:24
+that	doubt:12
+the	doubt:13
+of	type:14
+the	seeing:12
+the	news:14
+huh:24
+shocked:24
+men:25
+to	check:13
+the	check:15
+seriously:25
+it	close:13
+the	close:14
+to	close:18
+tho:25
+girl:25
+sense:25
+to	kill:15
+definitely:25
+comments:25
+myself:25
+realized:25
+called:25
+the	that	fact:13
+family:25
+job:26
+was	thinking:12
+is	woman:13
+the	woman:15
+noticed:26
+you	sex:14
+what	happens:12
+that	happens:12
+the	happens:12
+to	happens:14
+the	joke:13
+under:27
+the	against:17
+super:27
+the	week:13
+the	found:15
+the	op:13
+of	me	reminds:22
+oh	god:16
+my	god:18
+you	yourself:19
+and	nothing:15
+the	started:15
+to	win:12
+the	win:13
+days:27
+that	means:12
+what	means:16
+to	explain:16
+such:27
+10:27
+the	run:12
+in	thread:12
+to	thread:12
+this	thread:14
+the	thread:15
+happy:28
+it	edit:13
+idk:28
+games:28
+the	free:14
+to	kid:12
+the	kid:13
+was	knew:15
+the	less:12
+the	kinda:12
+the	home:12
+how	works:12
+it	works:12
+that	works:12
+the	end:22
+the	own:14
+the	head:15
+the	child:12
+done:29
+and	live:12
+to	live:12
+you	live:13
+in	live:14
+you	thank:28
+it	almost:13
+the	almost:16
+everything:29
+this	story:12
+the	story:16
+the	and	between:13
+today:30
+the	using:15
+the	watch:14
+to	watch:15
+to	imagine:12
+can	imagine:13
+the	imagine:22
+friends:30
+the	coming:14
+that	case:12
+in	case:21
+the	call:15
+the	hey:12
+and	took:14
+to	took:14
+it	took:16
+that	took:16
+can	link:12
+you	link:12
+it	link:14
+to	link:14
+the	link:14
+the	fuck:19
+you	mind:12
+to	mind:13
+that	honestly:12
+the	religion:15
+to	friend:14
+to	through:13
+the	through:16
+name	season:12
+to	season:15
+the	season:20
+the	ah:13
+to	world:14
+in	world:15
+the	world:22
+you	try:15
+to	try:19
+to	school:13
+the	school:18
+is	reason:14
+to	reason:16
+for	reason:17
+the	reason:19
+to	change:14
+the	change:14
+have	may:12
+it	may:12
+that	may:13
+be	may:16
+the	team:21
+you	hear:14
+that	hear:14
+to	hear:18
+you	women:12
+that	women:13
+to	women:15
+that	place:12
+the	in	place:20
+on	reddit:13
+to	top:13
+the	of	top:13
+to	happen:19
+the	help:13
+you	help:18
+to	help:18
+of	another:12
+the	another:12
+to	another:15
+you	looking:12
+to	looking:13
+the	looking:15
+to	far:13
+the	far:17
+the	second:24
+you	please:12
+to	please:14
+the	please:15
+me	please:16
+that	big:12
+the	big:17
+it	few:12
+the	few:14
+to	few:17
+the	problem:20
+have	must:12
+to	must:12
+the	must:12
+be	must:14
+to	next:12
+the	next:19
+and	kids:12
+to	kids:13
+the	kids:17
+the	won:16
+it	weird:13
+the	weird:14
+that	weird:15
+the	both:15
+to	both:16
+and	both:19
+the	stop:12
+to	stop:15
+it	times:12
+the	times:13
+you	literally:13
+that	literally:14
+the	literally:17
+for	give:13
+you	give:13
+and	give:15
+to	give:19
+that	forgot:12
+the	forgot:17
+the	to	im:12
+to	away:14
+it	away:15
+the	away:19
+the	hate:12
+you	hate:13
+it	sounds:12
+the	sounds:12
+to	sounds:13
+that	sounds:14
+like	sounds:20
+to	shit:14
+the	shit:16
+to	bit:12
+the	damn:12
+that	damn:15
+that	aren:13
+the	aren:13
+you	aren:16
+is	money:12
+and	money:14
+the	money:16
+to	money:18
+is	dude:14
+that	dude:14
+the	dude:16
+the	little:12
+to	little:15
+in	two:12
+and	two:12
+the	two:22
+it	since:14
+the	since:18
+you	ask:19
+to	ask:22
+you	ok:13
+the	ok:13
+to	without:15
+the	without:23
+it	show:12
+the	that	show:13
+to	show:17
+the	haven:18
+you	sub:12
+that	sub:12
+to	sub:12
+the	sub:16
+is	this	sub:14
+it	play:12
+that	play:12
+you	play:14
+the	play:16
+to	play:17
+is	talking:12
+the	talking:13
+you	about	re	talking:13
+are	about	talking:13
+you	what	about	talking:15
+on	put:12
+the	put:14
+in	put:15
+to	put:20
+you	enough:12
+is	enough:15
+that	enough:17
+to	enough:19
+the	enough:21
+it	let:12
+that	let:12
+the	let:16
+you	gonna:12
+the	gonna:16
+that	true:12
+you	true:15
+the	true:16
+it	true:17
+to	once:13
+it	once:16
+is	of	kind:13
+of	what	kind:15
+the	of	kind:16
+he	left:13
+that	left:16
+the	left:28
+it	used:12
+the	to	used:12
+it	video:12
+is	video:13
+to	video:15
+the	video:26
+was	while:12
+in	while:12
+it	while:12
+the	while:13
+and	while:14
+to	while:15
+was	went:12
+and	went:15
+the	went:15
+to	went:25
+the	ago:13
+that	ago:14
+years	ago:17
+it	was	ago:13
+is	either:14
+that	either:14
+the	either:16
+or	either:22
+to	best:12
+the	that	best:12
+you	best:14
+the	is	best:18
+for	come:12
+that	come:16
+to	come:19
+the	come:19
+this	thanks:12
+to	thanks:12
+the	for	thanks:13
+not	having:12
+to	having:16
+the	having:18
+you	having:19
+if	wondering:13
+it	wondering:16
+the	was	wondering:12
+it	at	least:14
+the	at	least:19
+are	saying:14
+that	saying:15
+to	saying:17
+the	saying:18
+you	saying:21
+you	wouldn:13
+that	wouldn:13
+if	wouldn:14
+to	wouldn:14
+it	wouldn:17
+the	wouldn:17
+be	wouldn:21
+you	day:12
+it	day:13
+that	day:13
+to	day:16
+the	day:21
+that	hard:13
+the	hard:14
+is	hard:15
+to	it	hard:14
+it	yet:12
+you	yet:12
+that	yet:12
+is	yet:14
+the	yet:16
+to	yet:18
+you	realize:12
+the	realize:12
+is	realize:13
+it	realize:14
+to	realize:15
+that	realize:23
+that	different:12
+in	different:14
+is	different:15
+the	different:16
+it	different:21
+in	keep:12
+is	keep:12
+the	keep:17
+to	keep:23
+it	part:12
+to	part:14
+that	part:15
+you	part:16
+the	of	part:14
+that	trying:12
+to	are	trying:12
+to	and	trying:13
+to	it	trying:15
+to	you	trying:17
+the	to	trying:18
+is	life:13
+to	life:14
+of	in	life:13
+you	life:18
+the	of	life:17
+that	might:14
+the	might:15
+but	might:16
+have	might:16
+you	might:16
+be	might:17
+it	might:19
+to	might:19
+had	idea:12
+what	idea:13
+this	idea:15
+to	idea:16
+the	idea:17
+have	no	idea:20
+of	every:12
+is	every:13
+to	every:13
+in	every:15
+you	every:15
+the	every:20
+it	everyone:12
+is	everyone:14
+and	everyone:16
+the	everyone:18
+of	person:12
+to	person:12
+it	person:14
+is	person:15
+that	person:16
+the	you	person:13
+the	yes:12
+that	yes:13
+to	yes:13
+it	yes:15
+not	long:12
+that	long:12
+it	long:13
+to	long:14
+and	long:15
+the	long:22
+know	dont:13
+to	dont:13
+it	dont:15
+that	dont:15
+the	dont:21
+is	exactly:12
+and	exactly:13
+you	exactly:13
+to	exactly:13
+that	exactly:15
+the	exactly:19
+what	exactly:22
+is	use:12
+and	use:14
+that	use:14
+it	use:15
+to	use:20
+you	use:21
+the	use:22
+you	things:12
+and	things:14
+it	things:14
+the	things:22
+to	things:23
+you	pretty:13
+is	pretty:14
+that	pretty:16
+to	pretty:16
+it	pretty:18
+the	pretty:18
+in	our:12
+name	our:13
+we	our:15
+is	our:16
+to	our:16
+the	our:20
+name	again:13
+you	again:13
+and	again:15
+that	again:15
+it	again:20
+to	again:20
+the	again:20
+it	lol:13
+the	lol:13
+to	lol:18
+this	omg:13
+the	omg:16
+just	saw:12
+this	saw:13
+the	and	saw:12
+was	saw:16
+it	saw:16
+that	saw:17
+the	lot:13
+it	of	lot:13
+that	of	lot:12
+to	of	lot:13
+just	its:12
+you	its:12
+of	its:14
+it	its:14
+that	its:14
+is	its:16
+and	its:17
+to	its:17
+the	its:24
+to	makes:13
+that	makes:16
+it	makes:21
+me	makes:22
+the	makes:22
+to	guys:19
+you	guys:22
+the	guys:23
+and	happened:12
+it	happened:12
+that	happened:15
+to	happened:20
+the	happened:20
+what	happened:31
+and	around:12
+is	around:12
+to	around:13
+that	around:20
+the	around:27
+it	getting:12
+of	getting:13
+is	getting:15
+are	getting:16
+and	getting:16
+to	getting:17
+that	getting:20
+the	getting:25
+and	take:16
+you	take:16
+it	take:17
+the	take:20
+to	take:25
+was	already:13
+and	already:13
+you	already:13
+to	already:13
+it	already:17
+the	already:19
+not	question:12
+you	question:17
+is	question:19
+to	question:23
+the	question:25
+you	which:13
+to	which:15
+the	which:16
+it	which:19
+is	which:24
+of	interesting:12
+this	interesting:13
+you	interesting:17
+that	interesting:18
+to	interesting:19
+it	interesting:21
+the	interesting:25
+of	made:12
+is	made:12
+you	made:13
+me	made:14
+and	made:14
+to	made:15
+it	made:17
+that	made:18
+the	made:24
+it	always:15
+to	always:16
+the	always:17
+that	always:20
+this	real:13
+to	real:13
+and	real:14
+that	real:15
+is	real:18
+the	real:22
+it	heard:12
+to	heard:12
+you	heard:14
+ve	heard:19
+of	never	heard:13
+that	heard:20
+the	of	heard:13
+your	comment:12
+it	comment:14
+that	comment:16
+this	comment:18
+was	comment:19
+you	comment:19
+the	comment:21
+to	comment:25
+you	guess:12
+the	guess:18
+to	guess:20
+this	point:13
+and	point:13
+it	point:14
+in	point:15
+is	point:17
+at	point:18
+that	point:19
+the	of	point:17
+what	point:21
+you	point:21
+the	to	point:15
+and	work:12
+in	work:13
+that	work:13
+of	work:14
+it	work:15
+you	work:17
+to	work:21
+the	work:23
+just	doing:12
+are	doing:12
+is	doing:13
+this	doing:17
+to	it	doing:12
+that	doing:20
+the	doing:20
+what	doing:21
+you	doing:25
+in	new:12
+this	new:12
+that	new:14
+it	new:15
+you	new:15
+is	new:17
+and	new:18
+to	new:23
+the	new:27
+in	seems:12
+not	seems:13
+of	seems:14
+and	seems:14
+you	seems:14
+this	seems:16
+is	seems:17
+that	seems:20
+the	like	seems:12
+the	to	seems:14
+it	seems:27
+of	seen:12
+and	seen:13
+that	seen:14
+ever	seen:16
+have	seen:16
+this	ve	seen:13
+the	ve	seen:16
+of	need:12
+it	need:12
+that	need:12
+we	need:15
+to	you	need:13
+the	to	need:14
+but	better:12
+is	better:14
+that	better:14
+than	better:16
+it	better:17
+to	better:18
+you	better:19
+the	better:25
+was	until:12
+is	until:13
+that	until:13
+this	until:14
+and	until:16
+to	until:16
+it	until:22
+the	until:24
+this	down:14
+is	down:15
+it	down:16
+the	and	down:13
+the	to	down:15
+or	tell:12
+and	tell:12
+that	tell:13
+if	tell:14
+the	tell:16
+it	tell:18
+to	you	tell:12
+you	can	tell:12
+me	tell:25
+have	ll:12
+not	ll:12
+be	ll:13
+of	ll:14
+and	ll:14
+that	ll:14
+you	ll:21
+the	ll:23
+it	ll:24
+to	ll:25
+this	into:12
+and	into:14
+it	into:14
+of	into:16
+you	into:16
+to	into:19
+the	that	into:12
+have	old:12
+was	old:12
+you	old:14
+it	old:16
+year	old:17
+to	old:17
+and	old:18
+that	old:18
+the	old:25
+what	confused:12
+this	confused:12
+is	confused:14
+was	confused:15
+and	confused:21
+the	confused:22
+you	confused:28
+in	wasn:14
+to	wasn:16
+the	name	wasn:13
+that	wasn:17
+was	wasn:18
+the	and	wasn:14
+it	wasn:27
+what	year:12
+it	year:12
+my	year:14
+of	year:14
+was	year:15
+the	in	year:13
+to	year:17
+this	year:22
+is	looks:13
+that	looks:15
+to	like	looks:13
+the	like	looks:17
+it	like	looks:22
+what	remember:12
+you	remember:13
+of	remember:14
+it	remember:14
+and	remember:15
+name	remember:16
+this	remember:16
+to	remember:17
+was	remember:18
+the	remember:28
+if	else:13
+this	else:14
+someone	else:15
+or	else:15
+and	else:15
+anyone	else:16
+that	else:18
+it	else:21
+you	else:22
+the	else:24
+to	else:27
+was	ever:12
+and	ever:13
+it	ever:14
+of	ever:15
+you	ever:20
+the	that	ever:12
+to	ever:23
+and	last:12
+my	last:13
+in	last:15
+this	last:15
+name	last:17
+the	of	last:14
+it	last:18
+was	last:21
+the	to	last:17
+is	sorry:14
+it	sorry:15
+to	but	sorry:12
+the	sorry:19
+to	that	sorry:15
+you	sorry:27
+what	most:12
+in	most:13
+people	most:14
+are	most:15
+for	most:15
+the	to	most:13
+the	you	most:13
+and	most:21
+the	is	most:16
+the	this	most:13
+the	of	most:15
+the	it	most:12
+the	that	most:13
+out	find:12
+this	find:13
+in	find:14
+and	find:14
+that	find:16
+can	find:17
+you	find:21
+to	it	find:12
+the	to	find:17
+of	wrong:13
+in	wrong:14
+be	wrong:16
+what	wrong:18
+is	wrong:18
+the	that	wrong:12
+with	wrong:21
+you	wrong:21
+and	wrong:22
+to	wrong:22
+it	wrong:24
+name	man:12
+was	man:13
+this	man:13
+what	man:15
+is	man:15
+it	man:18
+to	man:20
+and	man:21
+you	man:21
+that	man:23
+the	man:29
+you	game:13
+this	game:14
+of	game:14
+is	game:15
+and	game:16
+name	game:18
+the	it	game:14
+the	that	game:15
+the	in	game:15
+the	to	game:16
+about	anything:12
+do	anything:12
+of	anything:13
+and	anything:13
+this	anything:15
+it	anything:15
+is	anything:16
+that	anything:21
+you	anything:26
+the	to	anything:13
+of	read:12
+what	read:16
+this	read:17
+that	read:18
+was	read:19
+the	you	read:14
+it	read:21
+the	and	read:14
+the	to	read:17
+this	probably:12
+you	probably:12
+for	probably:13
+not	probably:13
+but	probably:14
+in	probably:15
+and	probably:16
+is	probably:16
+that	probably:19
+the	to	probably:12
+to	it	probably:15
+people	these:12
+have	these:12
+for	these:12
+you	these:13
+it	these:15
+the	in	these:13
+and	these:19
+is	these:19
+are	these:24
+the	of	these:12
+to	these:25
+is	years:13
+for	years:15
+of	years:15
+name	years:18
+to	years:19
+that	was	years:12
+and	years:23
+the	in	years:15
+the	it	years:12
+ve	before:12
+this	before:13
+of	before:13
+and	before:13
+have	before:14
+was	before:18
+it	before:18
+you	before:18
+that	before:21
+to	before:21
+the	before:30
+name	look:13
+of	look:13
+and	look:13
+is	look:14
+you	look:15
+just	look:16
+at	look:17
+like	look:18
+it	look:18
+that	look:18
+the	to	look:14
+how	said:12
+for	said:12
+what	said:13
+is	said:13
+he	said:14
+in	said:14
+name	said:14
+just	said:16
+was	said:18
+and	said:19
+to	it	said:13
+to	you	said:12
+the	that	said:14
+how	us:12
+not	us:12
+is	us:12
+are	us:13
+name	us:13
+you	us:13
+this	us:14
+and	us:16
+it	us:16
+that	us:16
+for	us:18
+the	of	us:12
+the	to	us:16
+can	post:12
+in	post:13
+of	post:13
+that	post:17
+is	this	post:13
+the	it	post:12
+the	you	post:12
+the	to	post:16
+the	this	post:15
+on	off:12
+if	off:13
+just	off:13
+is	off:14
+of	off:15
+you	off:19
+that	off:20
+the	and	off:15
+the	it	off:13
+the	to	off:16
+but	feel:12
+so	feel:13
+for	feel:13
+how	feel:15
+and	feel:17
+this	like	feel:12
+the	that	feel:14
+you	feel:24
+to	feel:24
+it	like	feel:13
+do	make:12
+this	make:12
+so	make:13
+what	make:13
+if	make:15
+is	make:16
+of	make:18
+that	make:23
+and	make:25
+to	you	make:12
+the	you	make:12
+to	it	make:15
+the	to	make:17
+and	way:12
+this	way:13
+you	way:13
+the	is	way:13
+the	it	way:12
+the	in	way:14
+that	way:26
+the	to	way:17
+of	many:12
+have	many:13
+this	many:13
+name	many:14
+and	many:14
+is	many:14
+that	many:16
+are	many:17
+so	many:18
+people	many:20
+to	many:22
+it	many:23
+in	how	many:13
+the	in	many:17
+the	how	many:14
+good	bad:12
+for	bad:12
+this	bad:12
+of	bad:13
+and	bad:14
+you	bad:20
+to	bad:22
+the	bad:27
+it	is	bad:13
+that	is	bad:18
+that	it	bad:15
+for	love:12
+in	love:12
+have	love:13
+this	love:13
+that	love:15
+what	love:16
+and	love:16
+is	love:16
+but	love:17
+of	love:17
+it	love:17
+name	love:22
+you	love:23
+the	love:28
+to	love:29
+was	wonder:12
+in	wonder:12
+of	wonder:12
+is	wonder:12
+he	wonder:13
+why	wonder:14
+what	wonder:15
+that	wonder:17
+how	wonder:18
+this	wonder:18
+and	wonder:18
+name	wonder:19
+to	wonder:22
+it	if	wonder:14
+the	it	wonder:15
+the	if	wonder:20
+how	understand:12
+not	understand:12
+your	understand:13
+and	understand:14
+the	in	understand:12
+what	understand:17
+that	understand:17
+this	understand:18
+why	understand:19
+is	understand:20
+it	understand:20
+to	you	understand:12
+you	don	understand:13
+the	don	understand:18
+he	good:12
+for	good:12
+not	good:12
+was	good:12
+of	good:12
+or	good:13
+in	good:15
+and	good:15
+is	good:19
+it	good:19
+you	good:21
+that	good:25
+to	good:25
+the	good:28
+who	guy:12
+in	guy:12
+it	guy:15
+you	guy:15
+and	guy:16
+name	guy:17
+the	of	guy:14
+the	is	guy:13
+was	guy:20
+to	guy:21
+the	this	guy:15
+the	that	guy:12
+are	very:12
+was	very:13
+not	very:14
+and	very:15
+this	very:16
+of	very:17
+you	very:18
+is	very:21
+to	very:22
+that	very:24
+it	very:26
+the	very:29
+people	those:12
+what	those:12
+not	those:13
+name	those:13
+for	those:15
+in	those:15
+and	those:16
+is	those:16
+to	those:21
+are	those:23
+that	those:24
+you	those:29
+the	of	those:13
+can	anyone:12
+how	anyone:12
+you	anyone:12
+does	anyone:13
+if	anyone:13
+on	anyone:13
+know	anyone:14
+of	anyone:14
+and	anyone:14
+have	anyone:18
+it	anyone:18
+that	anyone:18
+the	for	anyone:14
+name	anyone:19
+in	anyone:20
+this	anyone:21
+to	is	anyone:12
+the	is	anyone:13
+the	to	anyone:13
+in	after:13
+this	after:13
+is	after:14
+but	after:15
+was	after:16
+the	name	after:14
+the	and	after:12
+you	after:21
+to	after:21
+the	it	after:17
+the	that	after:18
+not	surprised:12
+in	surprised:12
+how	surprised:13
+be	if	surprised:12
+this	surprised:14
+he	surprised:16
+the	of	surprised:12
+name	surprised:19
+was	surprised:20
+the	and	surprised:12
+it	surprised:20
+that	surprised:20
+the	to	surprised:14
+be	though:12
+know	though:13
+in	though:13
+of	though:13
+are	though:14
+you	though:16
+not	though:19
+name	though:19
+is	though:22
+to	it	though:12
+the	it	though:12
+the	that	though:12
+to	that	though:15
+the	to	though:14
+he	back:12
+with	back:13
+was	back:13
+this	back:13
+the	of	back:13
+the	name	back:12
+the	it	back:12
+you	back:20
+the	is	back:12
+the	that	back:12
+the	in	back:16
+and	back:25
+the	to	back:21
+do	wait:12
+are	wait:12
+for	wait:13
+they	wait:14
+in	wait:14
+this	wait:15
+it	wait:15
+that	wait:15
+you	wait:16
+what	wait:19
+the	wait:23
+to	can	wait:16
+in	say:12
+did	say:13
+on	say:13
+he	say:14
+and	say:15
+is	say:15
+this	say:16
+what	say:17
+name	say:21
+that	you	say:12
+to	that	say:12
+to	it	say:14
+the	you	say:13
+the	to	say:13
+to	you	say:17
+not	believe:12
+of	believe:12
+in	believe:16
+and	believe:17
+this	believe:18
+is	believe:20
+name	believe:21
+it	believe:21
+you	believe:22
+to	believe:27
+the	that	believe:14
+the	can	believe:16
+that	can	believe:14
+why	also:12
+but	also:13
+like	also:14
+have	also:14
+in	also:14
+not	also:15
+of	also:15
+name	also:16
+this	also:18
+is	also:18
+you	also:19
+that	also:21
+and	also:23
+to	also:23
+it	also:26
+the	also:34
+about	doesn:12
+he	doesn:12
+like	doesn:12
+have	doesn:12
+what	doesn:12
+mean	doesn:14
+name	doesn:14
+of	doesn:14
+you	doesn:16
+but	doesn:17
+this	doesn:17
+and	doesn:17
+the	is	doesn:12
+to	doesn:29
+the	that	doesn:13
+that	it	doesn:14
+the	it	doesn:15
+are	isn:12
+be	isn:13
+what	isn:13
+you	isn:14
+the	of	isn:12
+this	isn:19
+name	isn:22
+is	isn:22
+to	it	isn:12
+to	that	isn:12
+the	that	isn:20
+the	it	isn:18
+people	over:12
+on	over:12
+my	over:13
+are	over:13
+in	over:13
+name	over:13
+just	over:14
+for	over:14
+what	over:14
+this	over:14
+was	over:15
+not	over:17
+the	of	over:12
+that	over:18
+you	over:21
+is	over:24
+the	and	over:16
+the	it	over:14
+the	to	over:20
+would	yeah:12
+if	yeah:12
+what	yeah:12
+this	yeah:12
+be	yeah:13
+was	yeah:14
+like	yeah:15
+for	yeah:15
+just	yeah:16
+name	yeah:17
+and	yeah:18
+the	of	yeah:13
+the	is	yeah:12
+the	that	yeah:15
+the	but	yeah:13
+the	to	yeah:13
+the	it	yeah:13
+not	first:14
+thought	first:15
+but	first:15
+the	and	first:12
+my	first:17
+at	first:19
+the	time	first:20
+the	name	first:17
+the	this	first:16
+the	of	first:15
+the	is	first:14
+it	was	first:12
+the	was	first:17
+the	you	first:17
+the	that	first:18
+the	in	first:26
+the	to	first:20
+the	it	first:20
+as	curious:12
+do	curious:12
+why	curious:12
+but	curious:12
+not	curious:12
+like	curious:13
+on	curious:13
+if	curious:14
+for	curious:14
+of	curious:17
+name	curious:18
+it	curious:18
+in	curious:19
+and	curious:19
+how	curious:21
+that	curious:21
+this	curious:23
+the	is	curious:12
+what	curious:25
+just	curious:29
+to	you	curious:14
+so	am:12
+how	am:12
+but	am:13
+have	am:13
+of	am:13
+in	am:15
+you	am:16
+this	am:17
+is	am:18
+it	am:18
+not	am:21
+the	and	am:14
+that	am:26
+the	to	am:14
+just	going:12
+of	going:13
+how	going:14
+for	going:14
+to	not	going:13
+what	going:15
+name	going:16
+the	in	going:12
+to	this	going:13
+the	are	going:12
+to	are	going:15
+to	was	going:14
+the	and	going:14
+to	and	going:18
+the	on	going:12
+to	is	going:15
+to	it	going:21
+the	that	going:14
+to	that	going:19
+the	you	going:15
+to	you	going:17
+the	to	going:37
+so	want:12
+for	want:12
+in	want:14
+to	know	want:13
+to	with	want:12
+to	be	want:14
+you	do	want:14
+name	want:16
+to	is	want:14
+to	just	want:14
+to	this	want:13
+to	but	want:15
+to	what	want:16
+to	that	want:18
+to	it	want:17
+you	and	want:13
+to	and	want:16
+to	of	want:17
+the	you	want:16
+the	to	want:22
+to	you	want:34
+like	other:12
+for	other:12
+with	other:13
+on	other:13
+name	other:13
+be	other:14
+just	other:14
+have	other:14
+not	other:14
+any	other:15
+this	other:15
+than	other:16
+what	other:16
+so	other:19
+are	other:19
+the	and	other:13
+the	of	other:15
+the	in	other:13
+you	is	other:12
+the	you	other:15
+the	that	other:14
+the	is	other:15
+the	it	other:18
+the	to	other:19
+know	well:12
+they	well:12
+what	well:13
+he	well:14
+be	well:16
+not	well:16
+was	well:16
+name	well:17
+but	well:19
+this	well:21
+is	well:22
+you	well:27
+it	and	well:15
+the	and	well:15
+as	well:30
+the	to	well:12
+to	it	well:13
+the	it	well:15
+the	that	well:17
+why	should:12
+just	should:12
+not	should:12
+but	should:13
+and	should:16
+have	should:18
+is	should:19
+this	should:21
+name	should:22
+of	should:23
+you	should:24
+the	that	should:12
+the	it	should:12
+the	to	should:15
+to	be	should:18
+the	be	should:12
+if	much:12
+just	much:12
+what	much:12
+in	much:13
+for	much:14
+name	much:14
+as	much:15
+not	much:16
+and	much:16
+about	much:17
+this	much:19
+is	much:21
+the	you	much:12
+it	of	much:12
+the	of	much:15
+that	much:25
+so	much:27
+it	how	much:12
+to	how	much:12
+the	how	much:12
+to	it	much:13
+the	it	much:18
+the	to	much:16
+or	actually:12
+if	actually:12
+be	actually:12
+they	actually:14
+have	actually:14
+in	actually:14
+are	actually:15
+not	actually:16
+and	actually:18
+the	of	actually:15
+this	actually:22
+the	is	actually:14
+the	that	actually:14
+to	you	actually:16
+the	you	actually:17
+to	it	actually:16
+the	it	actually:17
+the	to	actually:16
+if	thing:12
+in	thing:12
+about	thing:13
+or	thing:13
+do	thing:13
+of	thing:13
+have	thing:14
+name	thing:14
+just	thing:15
+are	thing:15
+for	thing:18
+and	thing:18
+the	same	thing:18
+you	thing:20
+the	was	thing:17
+the	not	thing:16
+to	this	thing:12
+is	this	thing:15
+it	is	thing:12
+to	it	thing:13
+the	it	thing:16
+to	that	thing:15
+the	that	thing:18
+that	is	thing:24
+to	is	thing:13
+the	to	thing:27
+the	is	thing:24
+was	something:12
+do	something:13
+just	something:13
+not	something:13
+if	something:14
+what	something:14
+in	something:14
+about	something:16
+with	something:16
+but	something:16
+and	something:16
+be	something:19
+like	something:20
+of	something:20
+to	or	something:12
+to	this	something:12
+is	this	something:13
+to	that	something:12
+to	you	something:18
+the	is	something:12
+to	is	something:13
+the	to	something:13
+to	it	something:15
+as	being:12
+but	being:12
+just	being:13
+on	being:14
+what	being:14
+like	being:15
+for	being:15
+with	being:16
+about	being:18
+are	being:18
+in	being:18
+name	being:18
+the	of	being:12
+this	being:20
+not	being:22
+to	and	being:12
+to	it	being:12
+the	is	being:17
+the	that	being:14
+to	that	being:16
+to	you	being:13
+the	you	being:16
+the	to	being:15
+who	their:12
+do	their:12
+with	their:12
+the	on	their:13
+how	their:14
+are	their:14
+why	their:15
+what	their:15
+just	their:16
+have	their:17
+the	for	their:14
+not	their:17
+people	their:18
+you	their:21
+that	their:23
+it	their:24
+the	in	their:16
+the	and	their:12
+to	and	their:15
+to	is	their:13
+the	is	their:19
+the	of	their:18
+to	they	their:12
+the	they	their:13
+the	to	their:19
+or	someone:13
+with	someone:13
+are	someone:13
+don	someone:14
+like	someone:14
+but	someone:14
+how	someone:15
+if	someone:16
+to	just	someone:12
+not	someone:16
+was	someone:17
+the	of	someone:12
+what	someone:18
+in	someone:18
+who	someone:19
+name	someone:19
+is	someone:20
+to	me	someone:12
+for	someone:21
+to	this	someone:12
+the	can	someone:14
+and	someone:27
+the	it	someone:12
+to	it	someone:20
+that	you	someone:12
+to	you	someone:15
+the	you	someone:18
+the	that	someone:14
+to	that	someone:17
+the	to	someone:19
+not	go:12
+or	go:13
+he	go:13
+on	go:13
+how	go:13
+was	go:13
+with	go:14
+what	go:14
+name	go:14
+of	go:15
+for	go:16
+but	go:17
+the	if	go:13
+the	just	go:12
+to	so	go:13
+to	this	go:13
+the	in	go:16
+the	is	go:13
+to	is	go:15
+the	that	go:15
+to	it	go:16
+to	you	go:17
+the	and	go:12
+to	and	go:20
+the	to	go:29
+don	mean:12
+you	by	mean:13
+for	mean:13
+and	mean:13
+they	mean:15
+you	do	mean:13
+this	mean:16
+be	mean:17
+of	mean:18
+but	mean:19
+is	mean:19
+what	does	mean:13
+not	mean:22
+to	mean:26
+you	it	mean:12
+the	that	mean:12
+that	you	mean:13
+the	you	mean:12
+you	what	mean:29
+like	same:12
+we	same:13
+just	same:13
+the	you	same:13
+the	at	same:12
+the	as	same:12
+the	for	same:14
+the	but	same:13
+the	not	same:15
+the	name	same:17
+the	this	same:15
+the	was	same:20
+the	in	same:19
+the	of	same:19
+the	is	same:19
+the	and	same:23
+the	to	same:23
+that	it	same:12
+the	that	same:29
+the	it	same:28
+really	wow:12
+was	wow:13
+of	wow:17
+is	wow:17
+and	wow:18
+it	wow:18
+in	wow:19
+name	wow:19
+this	wow:19
+to	wow:23
+you	wow:26
+the	wow:29
+that	wow:32
+me	could:12
+do	could:12
+what	could:13
+we	could:14
+if	could:14
+but	could:15
+name	could:15
+on	could:16
+not	could:16
+for	could:17
+how	could:18
+my	could:19
+the	have	could:13
+the	this	could:12
+the	of	could:13
+the	in	could:12
+and	could:27
+the	is	could:15
+it	be	could:15
+the	to	could:12
+to	you	could:13
+to	be	could:15
+that	you	could:17
+the	that	could:17
+the	you	could:17
+at	where:12
+if	where:12
+but	where:12
+get	where:13
+they	where:13
+from	where:14
+me	where:14
+not	where:14
+can	where:15
+name	where:15
+be	where:17
+are	where:20
+and	where:22
+the	in	where:13
+is	this	where:12
+to	of	where:12
+is	of	where:13
+the	of	where:19
+to	that	where:13
+the	that	where:17
+the	it	where:17
+to	is	where:14
+the	is	where:25
+the	you	where:16
+the	to	where:22
+we	got:12
+is	got:12
+if	got:14
+for	got:14
+what	got:14
+in	got:14
+me	got:15
+my	got:15
+on	got:17
+how	got:17
+was	got:17
+this	got:17
+he	got:18
+of	got:18
+name	got:21
+just	got:22
+the	and	got:15
+the	to	got:13
+the	it	got:12
+the	you	got:12
+the	that	got:17
+like	any:13
+do	any:15
+for	any:15
+not	any:15
+there	any:16
+how	any:16
+are	any:16
+name	any:16
+if	any:18
+to	be	any:12
+and	any:18
+or	any:24
+the	in	any:13
+is	on	any:12
+this	any:27
+you	have	any:12
+that	you	any:13
+to	that	any:14
+to	of	any:13
+the	of	any:13
+to	is	any:12
+it	is	any:13
+the	is	any:15
+to	it	any:12
+the	it	any:16
+to	you	any:20
+the	to	any:22
+there	here:12
+so	here:12
+like	here:13
+just	here:13
+but	here:13
+with	here:14
+for	here:14
+name	here:14
+can	here:15
+how	here:15
+have	here:15
+are	here:17
+on	here:19
+not	here:20
+in	here:21
+the	of	here:14
+this	here:26
+that	here:27
+you	what	here:12
+and	here:29
+the	is	here:15
+to	it	here:13
+the	it	here:15
+the	to	here:15
+your	then:12
+he	then:13
+have	then:13
+would	then:14
+why	then:14
+on	then:14
+just	then:14
+are	then:14
+about	then:15
+in	then:15
+for	then:16
+this	then:16
+of	then:16
+be	then:17
+not	then:17
+name	then:18
+but	then:21
+was	then:22
+that	then:23
+what	then:27
+is	and	then:13
+the	is	then:19
+the	if	then:12
+it	if	then:14
+you	if	then:17
+to	it	then:14
+to	and	then:16
+to	you	then:16
+the	to	then:21
+the	you	then:12
+it	and	then:18
+the	and	then:21
+the	it	then:17
+up	maybe:12
+if	maybe:12
+how	maybe:12
+with	maybe:13
+they	maybe:13
+he	maybe:13
+on	maybe:13
+or	maybe:14
+for	maybe:15
+was	maybe:15
+be	maybe:16
+not	maybe:16
+don	maybe:17
+name	maybe:17
+but	maybe:19
+the	of	maybe:12
+the	in	maybe:12
+to	just	maybe:12
+the	is	maybe:19
+the	and	maybe:15
+to	and	maybe:16
+you	it	maybe:13
+the	you	maybe:13
+to	you	maybe:16
+that	it	maybe:12
+to	that	maybe:12
+the	that	maybe:16
+to	it	maybe:15
+the	it	maybe:15
+the	to	maybe:20
+get	will:12
+at	will:12
+they	will:12
+are	will:12
+as	will:13
+he	will:13
+on	will:14
+for	will:14
+have	will:15
+how	will:16
+do	will:17
+not	will:17
+if	will:18
+but	will:19
+the	what	will:12
+the	of	will:14
+in	will:22
+the	name	will:19
+the	is	will:15
+to	is	will:16
+the	that	will:12
+this	will:28
+the	you	will:13
+to	it	will:15
+the	it	will:17
+the	and	will:19
+the	to	be	will:13
+people	because:12
+or	because:13
+why	because:13
+my	because:13
+so	because:13
+like	because:13
+on	because:13
+just	because:13
+be	because:15
+have	because:17
+he	because:18
+they	because:20
+was	because:20
+not	because:22
+it	are	because:12
+this	because:23
+and	because:24
+the	name	because:12
+you	it	because:14
+to	it	because:21
+it	in	because:14
+the	in	because:17
+that	of	because:12
+it	of	because:16
+the	of	because:19
+that	is	because:12
+the	it	is	because:12
+that	it	because:17
+the	that	because:21
+at	been:12
+me	been:12
+they	been:13
+he	been:13
+are	been:13
+but	been:14
+not	been:14
+there	been:15
+how	been:15
+like	been:16
+on	been:17
+what	been:18
+was	been:19
+the	in	been:14
+the	is	been:12
+that	been:24
+you	have	been:12
+the	you	been:12
+has	been:28
+name	been:28
+of	have	been:13
+the	of	been:13
+this	been:29
+ve	been:31
+it	for	been:12
+to	for	been:12
+the	for	been:18
+the	and	been:12
+to	it	been:13
+the	to	been:16
+the	it	been:22
+the	have	been:23
+just	were:12
+how	were:12
+but	were:12
+are	were:12
+this	were:12
+about	were:13
+be	were:13
+for	were:13
+when	were:14
+we	were:14
+at	were:14
+not	were:14
+so	were:15
+if	were:16
+the	name	were:13
+on	were:20
+what	were:20
+the	it	were:13
+you	thought	were:12
+the	was	were:15
+the	and	were:16
+the	in	were:22
+the	of	were:21
+that	they	were:12
+the	that	were:17
+to	you	were:12
+to	they	were:13
+the	to	were:19
+the	they	were:21
+the	you	were:18
+think	than:12
+with	than:12
+they	than:12
+be	than:12
+have	than:12
+people	than:13
+what	than:14
+me	than:15
+this	than:15
+for	than:16
+was	than:17
+but	than:22
+are	more	than:12
+the	of	than:14
+you	more	than:12
+in	more	than:12
+the	in	than:16
+it	and	than:12
+and	more	than:14
+the	and	than:16
+name	more	than:14
+to	it	than:16
+the	to	than:17
+the	that	than:16
+that	more	than:19
+it	is	than:12
+the	is	than:17
+it	more	than:15
+the	it	than:18
+the	more	than:21
+me	never:13
+if	never:13
+for	never:14
+like	never:15
+so	never:16
+but	never:17
+was	never:17
+name	never:18
+is	never:18
+about	never:19
+in	never:20
+to	ve	never:12
+have	never:27
+this	never:27
+the	it	never:14
+the	and	never:13
+you	of	never:12
+the	you	never:12
+the	of	never:17
+to	that	never:13
+the	to	never:13
+the	that	never:15
+ve	had:12
+when	had:12
+one	had:12
+be	had:12
+just	had:12
+what	had:12
+know	had:13
+is	had:14
+no	had:15
+they	had:15
+have	had:15
+not	had:15
+my	had:16
+we	had:17
+name	had:17
+he	had:18
+if	had:18
+on	had:18
+but	had:18
+for	had:20
+this	had:25
+the	in	had:16
+you	had:26
+the	of	had:13
+and	was	had:12
+the	was	had:17
+the	it	had:14
+to	and	had:12
+the	and	had:19
+the	that	had:17
+the	to	had:21
+or	some:12
+not	some:12
+there	some:13
+was	some:13
+do	some:14
+my	some:14
+if	some:15
+be	some:15
+but	some:15
+have	some:16
+people	some:17
+like	some:20
+for	some:20
+are	some:22
+this	some:22
+just	some:23
+the	in	some:14
+on	some:25
+name	some:25
+that	is	some:14
+you	it	some:12
+it	and	some:14
+the	and	some:14
+to	and	some:16
+that	of	some:13
+to	of	some:14
+the	of	some:15
+the	that	some:13
+the	it	some:13
+the	to	some:16
+to	it	some:16
+get	only:12
+do	only:12
+they	only:12
+he	only:12
+can	only:12
+on	only:12
+at	only:13
+why	only:13
+be	only:15
+are	only:15
+with	only:16
+but	only:16
+not	only:17
+so	only:18
+the	if	only:12
+the	for	only:12
+have	only:19
+the	this	only:13
+the	one	only:15
+the	was	only:14
+the	name	only:13
+the	you	only:16
+the	in	only:20
+the	of	only:19
+that	is	only:13
+the	is	only:28
+that	and	only:13
+to	and	only:13
+it	and	only:14
+the	and	only:21
+that	it	only:16
+the	it	only:19
+the	that	only:27
+the	to	only:26
+we	by:12
+have	by:12
+for	by:12
+who	by:13
+just	by:13
+they	by:14
+like	by:15
+do	by:16
+the	on	by:14
+to	be	by:13
+the	how	by:12
+you	what	by:14
+was	by:21
+this	by:21
+the	and	by:12
+are	by:23
+the	not	by:12
+the	of	by:19
+the	name	by:18
+the	it	by:12
+to	it	by:14
+the	in	by:19
+that	you	by:12
+to	that	by:13
+the	that	by:18
+to	is	by:12
+the	is	by:27
+the	you	by:14
+the	to	by:24
+she	does:12
+if	does:12
+like	does:13
+be	does:14
+not	does:14
+or	does:15
+do	does:15
+but	does:16
+why	does:19
+with	does:19
+on	does:19
+the	in	does:16
+he	does:21
+to	have	does:15
+name	does:23
+is	does:23
+you	does:23
+the	of	does:12
+and	does:26
+how	does:30
+to	this	does:12
+the	that	does:19
+to	it	does:17
+the	it	does:22
+the	to	does:19
+at	right:12
+just	right:12
+re	right:14
+know	right:14
+have	right:14
+so	right:15
+this	right:15
+if	right:16
+to	but	right:12
+like	right:17
+be	right:17
+what	right:17
+are	right:18
+now	right:21
+the	on	right:12
+not	right:21
+name	right:24
+the	and	right:13
+the	in	right:17
+the	it	right:12
+the	of	right:15
+the	is	right:16
+to	you	right:12
+to	that	right:13
+the	to	right:15
+that	you	right:17
+the	that	right:18
+they	even:12
+out	even:13
+did	even:13
+do	even:13
+just	even:13
+but	even:13
+didn	even:14
+would	even:14
+he	even:14
+how	even:14
+she	even:15
+so	even:15
+know	even:16
+like	even:16
+don	even:17
+for	even:17
+can	even:18
+to	be	even:13
+name	even:19
+what	even:20
+was	even:22
+the	of	even:15
+to	not	even:13
+the	in	even:15
+the	and	even:13
+to	this	even:12
+the	if	even:15
+it	if	even:16
+the	is	even:12
+to	is	even:14
+the	you	even:13
+to	you	even:14
+to	that	even:15
+to	it	even:15
+the	it	even:17
+the	to	even:24
+with	sure:12
+can	sure:12
+has	sure:13
+re	sure:13
+not	so	sure:13
+my	sure:14
+not	about	sure:12
+not	why	sure:14
+not	be	sure:12
+not	how	sure:12
+not	they	sure:14
+on	sure:18
+was	sure:18
+the	he	sure:12
+not	he	sure:14
+just	sure:19
+in	not	sure:13
+and	not	sure:12
+you	are	sure:15
+not	for	sure:12
+of	not	sure:13
+the	of	sure:15
+name	not	sure:15
+the	name	sure:18
+this	not	sure:25
+the	if	sure:16
+not	if	sure:19
+it	but	sure:12
+the	it	sure:14
+it	not	sure:21
+the	what	sure:12
+is	what	not	sure:12
+you	what	not	sure:14
+to	but	sure:12
+the	but	sure:15
+not	but	sure:26
+that	is	sure:14
+the	is	not	sure:13
+that	you	sure:13
+the	that	sure:17
+that	not	sure:27
+the	you	sure:16
+the	to	not	sure:12
+know	still:12
+so	still:12
+just	still:12
+with	still:14
+my	still:14
+not	still:14
+on	still:15
+be	still:16
+what	still:16
+they	still:17
+how	still:17
+was	still:17
+he	still:18
+if	still:19
+for	still:19
+have	still:20
+are	still:22
+but	still:24
+this	still:24
+the	of	still:15
+the	name	still:14
+the	and	still:13
+the	you	still:12
+the	in	still:19
+the	that	still:15
+the	is	still:13
+to	it	still:12
+the	to	still:12
+the	it	still:15
+like	them:12
+people	them:13
+one	them:13
+do	them:13
+for	them:13
+at	them:14
+so	them:14
+just	them:15
+name	them:15
+would	them:16
+or	them:16
+can	them:16
+if	them:16
+how	them:17
+this	them:17
+be	them:18
+the	in	them:13
+but	them:20
+have	them:20
+with	them:21
+they	them:21
+why	them:22
+are	them:23
+not	them:23
+the	is	them:16
+to	it	them:14
+the	of	them:16
+to	that	them:14
+the	that	them:16
+you	them:39
+the	and	them:14
+to	and	them:20
+the	to	them:22
+ve	time:12
+when	time:12
+me	time:12
+if	time:12
+but	time:12
+she	time:13
+there	time:13
+my	time:13
+can	time:14
+he	time:15
+so	time:15
+the	all	time:15
+have	time:17
+the	they	time:12
+what	time:18
+the	name	time:14
+the	on	time:14
+not	time:19
+the	at	time:18
+the	for	time:12
+the	was	time:15
+the	you	time:14
+of	in	time:12
+the	of	time:28
+this	in	time:13
+is	this	time:15
+the	this	time:24
+to	is	time:12
+it	is	time:14
+the	is	time:22
+it	in	time:13
+to	in	time:16
+the	in	time:24
+that	and	time:13
+to	that	time:14
+the	that	time:26
+it	and	time:17
+the	to	and	time:12
+to	it	time:17
+the	it	time:26
+about	her:12
+he	her:12
+how	her:12
+would	her:13
+my	her:13
+can	her:13
+did	her:15
+but	her:15
+so	her:16
+to	be	her:13
+if	her:18
+what	her:18
+just	her:19
+have	her:19
+the	not	her:12
+like	her:20
+was	her:20
+this	her:22
+on	her:23
+in	she	her:14
+of	her:23
+to	with	her:12
+the	for	her:12
+to	is	her:14
+the	is	her:14
+you	and	her:12
+that	you	her:12
+the	you	her:12
+and	name	her:12
+the	name	her:12
+it	and	her:14
+to	it	her:19
+to	that	her:13
+the	that	her:15
+to	and	her:15
+the	and	her:16
+and	she	her:17
+to	she	her:20
+the	she	her:20
+the	to	her:27
+all	too:12
+are	too:12
+about	too:13
+or	too:13
+for	too:14
+me	too:15
+be	too:15
+just	too:15
+with	too:16
+of	too:16
+my	too:17
+like	too:17
+on	too:18
+in	too:19
+not	too:20
+name	too:21
+but	too:23
+what	too:25
+this	too:26
+and	too:28
+is	too:29
+you	too:29
+it	was	too:13
+to	was	too:14
+the	that	too:13
+to	that	too:17
+the	it	too:12
+the	to	too:23
+to	it	too:20
+how	him:12
+did	him:13
+we	him:13
+don	him:13
+as	him:14
+do	him:14
+why	him:14
+they	him:14
+so	him:14
+can	him:14
+are	him:14
+his	him:15
+but	him:15
+or	him:16
+just	him:16
+about	him:17
+was	him:17
+this	him:17
+have	him:20
+with	him:21
+the	not	him:13
+what	him:22
+on	him:24
+to	be	him:13
+you	if	him:12
+of	him:26
+for	him:28
+to	it	him:13
+in	he	him:12
+the	in	him:16
+to	and	him:13
+the	and	him:13
+and	name	him:14
+to	that	him:12
+that	he	him:15
+the	that	him:17
+you	he	him:13
+to	you	him:16
+is	name	him:14
+to	is	him:16
+is	he	him:17
+the	is	him:20
+name	he	him:13
+to	name	him:16
+the	name	him:24
+the	he	him:20
+to	he	him:21
+the	to	him:27
+oh	thought:13
+not	thought:13
+be	thought:14
+on	thought:14
+about	thought:15
+my	thought:15
+they	thought:16
+for	thought:16
+in	thought:16
+at	thought:17
+just	thought:18
+have	thought:18
+of	thought:18
+is	was	thought:12
+it	is	thought:12
+he	thought:19
+what	thought:19
+it	but	thought:13
+name	was	thought:14
+this	was	thought:18
+to	and	thought:13
+the	and	thought:15
+and	was	thought:18
+you	was	thought:13
+to	you	thought:13
+the	you	thought:13
+to	that	thought:14
+the	to	thought:14
+to	it	was	thought:12
+that	it	was	thought:13
+the	that	thought:15
+the	it	was	thought:13
+if	didn:12
+for	didn:12
+think	didn:13
+me	didn:13
+with	didn:13
+what	didn:13
+get	didn:14
+on	didn:15
+have	didn:15
+is	didn:15
+just	didn:16
+but	didn:22
+the	in	didn:13
+this	didn:22
+of	didn:22
+they	didn:24
+the	he	didn:13
+the	and	didn:18
+that	you	didn:14
+the	you	didn:16
+the	name	didn:13
+it	was	didn:14
+the	was	didn:14
+was	know	didn:15
+that	was	didn:16
+that	know	didn:19
+to	that	didn:14
+to	it	didn:16
+the	to	didn:19
+that	it	didn:15
+the	it	didn:18
+the	that	didn:16
+no	has:12
+can	has:12
+with	has:13
+my	has:13
+just	has:13
+have	has:13
+like	has:14
+she	has:15
+on	has:15
+but	has:15
+about	has:16
+do	has:16
+to	be	has:12
+or	has:17
+what	has:17
+me	has:18
+if	has:18
+how	has:19
+not	has:20
+you	has:23
+to	for	has:12
+the	for	has:12
+that	for	has:13
+the	is	has:18
+to	he	has:12
+the	he	has:13
+and	in	has:12
+that	in	has:12
+to	in	has:12
+the	in	has:17
+to	this	has:13
+the	this	has:15
+it	and	has:12
+that	and	has:12
+to	and	has:15
+the	and	has:19
+to	it	has:16
+the	it	has:18
+to	of	has:13
+the	of	has:24
+that	name	has:13
+to	that	has:15
+the	that	has:19
+to	name	has:18
+the	name	has:20
+the	to	has:30
+there	ve:12
+how	ve:12
+what	ve:12
+one	ve:13
+me	ve:13
+be	ve:13
+up	ve:14
+with	ve:15
+would	ve:16
+can	ve:16
+not	ve:16
+about	ve:17
+just	ve:17
+have	ve:17
+like	ve:18
+on	ve:18
+was	ve:18
+name	ve:18
+if	ve:20
+but	ve:21
+my	ve:23
+for	ve:24
+the	in	ve:12
+to	is	ve:13
+the	is	ve:21
+the	this	ve:17
+you	it	ve:13
+the	it	ve:14
+to	it	ve:15
+that	and	ve:14
+to	and	ve:14
+the	and	ve:19
+you	of	ve:12
+the	of	ve:22
+to	that	ve:13
+the	that	ve:19
+to	you	ve:14
+the	you	ve:14
+the	to	ve:18
+from	his:12
+would	his:12
+at	his:13
+know	his:13
+me	his:13
+so	his:13
+if	his:13
+like	his:13
+who	his:14
+are	his:14
+out	his:15
+why	his:15
+with	his:15
+can	his:15
+how	his:16
+or	his:17
+but	his:18
+not	his:18
+about	his:19
+for	his:19
+you	his:20
+to	be	his:14
+just	his:23
+is	this	his:13
+on	he	his:15
+name	was	his:12
+is	what	his:13
+of	he	his:12
+that	of	his:12
+of	name	his:14
+the	of	his:19
+to	in	his:12
+is	in	his:13
+in	he	his:14
+the	in	his:16
+to	it	his:13
+the	it	his:14
+it	he	his:15
+it	is	his:15
+that	is	his:12
+that	name	his:13
+that	he	his:15
+the	that	his:17
+to	and	his:13
+is	and	his:15
+the	and	his:21
+and	name	his:22
+and	he	his:25
+to	is	his:14
+is	he	his:16
+the	is	his:20
+is	name	his:25
+to	name	his:17
+the	to	his:22
+to	he	his:23
+name	he	his:18
+the	name	his:26
+the	he	his:24
+why	see:13
+like	see:13
+are	see:13
+was	see:15
+with	see:16
+do	see:17
+to	he	see:12
+to	for	see:12
+on	see:19
+have	see:20
+not	see:20
+how	see:22
+to	but	see:12
+don	see:24
+just	see:24
+to	or	see:14
+the	what	see:14
+to	what	see:16
+you	of	see:13
+to	of	see:17
+the	of	see:20
+the	can	see:16
+to	can	see:20
+the	name	see:13
+to	name	see:14
+the	this	see:13
+to	this	see:16
+is	this	see:17
+to	is	see:16
+the	is	see:18
+that	you	see:14
+to	that	see:17
+the	that	see:19
+the	to	in	see:12
+the	to	and	see:13
+you	it	see:13
+the	to	it	see:14
+to	you	see:24
+the	you	see:29
+one	more:12
+we	more:12
+don	more:12
+about	more:13
+know	more:13
+with	more:13
+he	more:14
+like	more:14
+have	more:14
+would	more:15
+me	more:15
+they	more:15
+be	more:15
+people	more:16
+on	more:16
+what	more:16
+think	more:17
+there	more:17
+just	more:17
+if	more:19
+you	do	more:13
+so	more:21
+to	not	more:12
+the	not	more:12
+or	more:22
+was	more:23
+the	but	more:13
+the	are	more:14
+for	more:32
+this	more:35
+to	in	more:14
+the	in	more:19
+it	and	more:12
+to	and	more:13
+the	and	more:19
+is	of	more:12
+to	is	more:14
+the	is	more:15
+the	you	more:12
+the	that	more:16
+to	of	more:14
+the	of	more:20
+to	it	more:16
+the	it	more:17
+the	to	more:23
+get	now:12
+know	now:12
+we	now:13
+about	now:13
+they	now:13
+do	now:14
+like	now:14
+be	now:14
+so	now:15
+he	now:16
+with	now:17
+just	now:17
+how	now:17
+not	now:19
+my	now:22
+the	on	now:12
+have	now:23
+can	now:24
+are	now:26
+the	for	now:14
+and	was	now:12
+it	was	now:12
+the	in	now:12
+the	but	now:12
+and	of	now:12
+the	of	now:17
+what	now:30
+the	name	now:13
+and	name	now:15
+this	now:31
+you	now:41
+to	that	now:13
+that	is	now:16
+the	that	now:16
+it	is	now:12
+to	is	now:15
+the	is	now:25
+to	it	now:14
+to	and	now:16
+the	to	now:17
+the	it	now:16
+it	and	now:19
+the	and	now:22
+think	she:12
+he	she:12
+can	she:12
+are	she:12
+get	she:13
+all	she:13
+no	she:14
+know	she:14
+at	she:15
+have	she:15
+on	she:16
+just	she:16
+to	be	she:13
+how	she:17
+like	she:18
+why	she:19
+my	she:19
+so	she:19
+the	me	she:13
+but	she:22
+did	she:23
+with	she:23
+this	she:24
+the	not	she:13
+what	she:25
+of	she:25
+to	for	she:14
+was	she:28
+the	if	she:14
+to	if	she:15
+the	name	she:12
+you	she:29
+that	in	she:13
+the	in	she:15
+the	it	she:16
+to	it	she:18
+is	and	she:13
+that	and	she:13
+to	and	she:17
+the	and	she:18
+that	is	she:13
+the	to	is	she:12
+to	that	she:15
+the	that	she:18
+with	re:13
+my	re:13
+you	when	re:12
+who	re:14
+you	your	re:13
+at	re:15
+why	re:15
+can	re:15
+don	re:16
+you	do	re:13
+like	re:16
+you	how	re:13
+on	re:17
+are	re:17
+you	but	re:13
+you	have	re:12
+think	re:19
+you	know	re:18
+you	so	re:15
+you	be	re:12
+to	be	re:12
+you	if	re:15
+you	for	re:15
+you	name	re:14
+the	is	re:13
+you	is	re:19
+you	just	re:13
+just	they	re:15
+the	in	re:15
+you	in	re:20
+you	this	re:12
+we	re:28
+the	you	of	re:15
+you	what	re:28
+it	they	re:12
+to	it	re:12
+the	it	re:12
+you	it	re:23
+to	not	re:12
+the	not	re:15
+not	they	re:16
+you	not	re:26
+and	they	re:13
+that	and	re:15
+the	to	and	re:13
+to	you	and	re:14
+the	you	and	re:15
+the	that	re:15
+to	that	re:16
+that	you	re:34
+to	they	re:18
+the	to	you	re:17
+you	they	re:12
+the	they	re:21
+one	really:12
+we	really:12
+would	really:13
+your	really:13
+or	really:13
+on	really:13
+think	really:14
+they	really:14
+about	really:15
+he	really:16
+be	really:16
+know	really:17
+me	really:17
+if	really:18
+don	really:19
+my	really:19
+have	really:19
+so	really:20
+can	really:20
+are	really:21
+do	really:22
+the	of	really:12
+how	really:23
+for	really:23
+what	really:23
+just	really:24
+the	and	really:13
+it	was	really:12
+the	name	really:14
+like	really:27
+that	in	really:12
+the	in	really:12
+the	but	really:13
+that	but	really:15
+to	not	really:12
+the	not	really:12
+it	not	really:13
+the	this	really:14
+is	this	really:16
+that	is	really:15
+to	is	really:16
+the	is	really:18
+it	is	really:19
+to	you	really:15
+you	it	really:16
+that	you	really:17
+the	you	really:18
+the	that	really:16
+to	that	really:17
+that	it	really:20
+the	it	really:23
+to	it	really:25
+the	to	really:27
+we	an:12
+one	an:13
+your	an:13
+my	an:13
+do	an:14
+as	an:15
+people	an:15
+don	an:15
+they	an:16
+so	an:16
+there	an:17
+why	an:17
+but	an:17
+are	an:17
+at	an:18
+me	an:19
+can	an:19
+how	an:19
+on	an:20
+would	an:21
+what	an:21
+or	an:22
+with	an:23
+for	an:23
+to	be	an:12
+of	have	an:12
+the	not	an:12
+the	just	an:12
+like	an:26
+was	an:27
+the	name	an:12
+the	if	an:12
+and	of	an:12
+that	and	an:12
+the	and	an:20
+the	in	an:17
+to	this	an:14
+is	this	an:16
+that	you	an:12
+to	you	an:12
+it	of	an:13
+is	of	an:14
+to	of	an:19
+the	of	an:19
+to	is	an:13
+it	is	an:15
+that	is	an:15
+the	is	an:21
+that	it	an:13
+to	it	an:19
+the	it	an:20
+to	that	an:16
+the	that	an:21
+the	to	an:20
+people	from:12
+all	from:12
+one	from:12
+we	from:12
+there	from:12
+at	from:12
+or	from:12
+your	from:13
+why	from:13
+so	from:13
+like	from:13
+would	from:14
+did	from:15
+me	from:15
+he	from:15
+on	from:15
+for	from:15
+how	from:16
+my	from:17
+have	from:17
+they	from:18
+if	from:19
+the	be	from:13
+but	from:19
+it	just	from:13
+are	from:24
+the	not	from:16
+the	in	from:18
+it	what	from:12
+the	what	from:12
+that	of	from:13
+the	of	from:28
+and	name	from:12
+that	name	from:13
+the	name	from:20
+that	and	from:13
+to	and	from:13
+it	and	from:15
+the	and	from:21
+this	was	from:12
+that	was	from:13
+the	it	was	from:13
+to	this	from:15
+is	this	from:18
+the	this	from:18
+to	is	from:12
+that	is	from:16
+the	is	from:25
+you	it	from:14
+to	you	from:14
+that	you	from:15
+the	you	from:21
+that	it	from:15
+to	it	from:17
+the	to	that	from:12
+no	when:12
+people	when:12
+there	when:12
+your	when:12
+do	when:12
+why	when:12
+did	when:13
+we	when:14
+so	when:14
+can	when:14
+be	when:14
+up	when:15
+at	when:16
+not	when:16
+out	when:17
+know	when:17
+or	when:17
+like	when:17
+have	when:18
+they	when:19
+don	when:20
+to	me	when:14
+with	when:20
+on	when:20
+you	how	when:12
+are	when:22
+the	for	when:14
+just	when:23
+the	but	when:14
+what	when:26
+to	my	when:12
+the	my	when:13
+to	this	when:13
+to	he	when:12
+name	he	when:14
+the	in	when:15
+to	in	when:16
+the	of	when:25
+is	and	when:14
+that	and	when:14
+to	and	when:14
+it	and	when:16
+the	and	when:19
+you	is	when:12
+to	is	when:15
+it	is	when:16
+the	is	when:22
+name	was	when:12
+that	name	when:16
+to	name	when:17
+the	name	when:19
+that	was	when:14
+to	was	when:14
+it	was	when:15
+the	was	when:23
+that	you	when:16
+to	you	when:21
+the	you	when:21
+that	it	when:17
+to	that	when:19
+the	that	when:29
+to	it	when:26
+the	it	when:29
+the	to	when:25
+did	oh:12
+they	oh:12
+have	oh:12
+like	oh:13
+be	oh:13
+what	oh:13
+he	oh:14
+if	oh:14
+on	oh:14
+just	oh:14
+know	oh:16
+for	oh:16
+and	oh:16
+so	oh:17
+the	in	oh:12
+the	of	oh:12
+at	oh:19
+is	this	oh:12
+that	was	oh:16
+it	was	oh:17
+to	it	oh:13
+you	oh:39
+that	it	oh:12
+the	it	oh:16
+that	my	oh:13
+name	my	oh:22
+that	name	oh:12
+the	name	oh:17
+the	that	oh:14
+who	up:12
+get	up:12
+would	up:12
+know	up:12
+why	up:12
+like	up:12
+we	up:13
+they	up:13
+at	up:14
+your	up:14
+do	up:15
+have	up:15
+so	up:16
+can	up:18
+there	up:19
+don	up:19
+he	up:19
+are	up:19
+not	up:21
+how	up:22
+the	of	up:15
+me	up:23
+my	up:23
+to	be	up:14
+on	up:25
+just	up:25
+but	up:25
+the	if	up:15
+what	up:29
+it	was	up:12
+to	was	up:12
+the	was	up:14
+to	for	up:14
+and	for	up:16
+is	this	up:12
+the	this	up:14
+that	with	up:12
+the	with	up:16
+and	in	up:14
+the	in	up:24
+and	name	up:14
+to	name	up:14
+the	name	up:16
+is	and	up:13
+it	is	up:14
+that	is	up:15
+the	is	up:19
+you	and	up:14
+to	you	up:15
+the	you	up:16
+that	it	up:13
+that	and	up:14
+the	that	up:16
+to	that	up:17
+it	and	up:16
+to	it	up:18
+the	it	up:28
+the	to	and	up:14
+who	out:12
+people	out:12
+don	out:12
+at	out:14
+know	out:14
+there	out:15
+about	out:15
+do	out:15
+did	out:16
+so	out:16
+but	out:16
+have	out:16
+to	get	out:12
+would	out:17
+why	out:17
+with	out:18
+your	out:19
+to	like	out:12
+they	out:20
+to	me	out:12
+can	out:22
+the	on	out:13
+if	out:25
+of	be	out:12
+of	my	out:12
+the	my	out:13
+to	he	out:13
+of	just	out:13
+the	not	out:12
+are	out:27
+you	what	out:12
+of	was	out:12
+it	was	out:12
+the	was	out:16
+of	name	out:12
+the	name	out:14
+to	for	out:13
+the	for	out:17
+is	of	out:13
+is	and	out:14
+it	is	out:14
+to	is	out:16
+the	is	out:17
+of	this	out:12
+the	this	out:16
+to	this	out:18
+the	how	out:14
+of	how	out:15
+to	how	out:15
+and	in	out:15
+to	in	out:17
+the	of	in	out:13
+the	you	out:13
+you	of	out:15
+you	it	out:16
+to	you	out:16
+that	it	out:13
+that	and	out:14
+that	of	out:16
+the	that	out:19
+to	that	out:24
+to	and	out:21
+it	and	out:22
+the	and	out:24
+and	of	out:26
+it	of	out:19
+the	to	it	out:13
+to	of	out:26
+as	no:12
+people	no:12
+did	no:12
+don	no:12
+all	no:13
+about	no:13
+know	no:13
+me	no:13
+on	no:14
+do	no:15
+we	no:16
+at	no:16
+why	no:16
+would	no:18
+he	no:18
+they	no:19
+so	no:19
+how	no:19
+with	no:20
+just	no:20
+or	no:21
+to	be	no:14
+you	if	no:14
+for	no:24
+it	was	no:12
+the	was	no:13
+to	not	no:12
+the	are	no:12
+but	no:29
+name	no:29
+it	one	no:12
+the	one	no:12
+to	one	no:14
+what	no:31
+the	of	no:18
+in	there	no:12
+to	there	no:16
+the	there	no:17
+is	there	no:21
+to	this	no:12
+this	in	no:14
+the	this	no:22
+and	in	no:12
+that	and	no:12
+is	and	no:13
+to	and	no:17
+the	and	no:18
+you	in	no:12
+to	you	no:13
+the	you	no:14
+is	in	no:15
+to	in	no:20
+the	in	no:29
+that	it	no:14
+it	is	no:15
+to	it	no:16
+the	it	no:21
+to	that	no:17
+that	is	no:18
+the	that	no:20
+to	is	no:23
+the	is	no:25
+the	to	no:32
+at	who:12
+or	who:12
+he	who:12
+so	who:12
+on	who:13
+just	who:13
+think	who:14
+would	who:14
+why	who:14
+my	who:14
+be	who:14
+how	who:14
+your	who:15
+like	who:15
+one	who:16
+with	who:16
+can	who:17
+there	who:18
+me	who:18
+they	who:18
+about	who:19
+not	who:19
+don	who:20
+do	who:20
+what	who:22
+have	who:24
+are	people	who:12
+the	know	who:12
+but	who:30
+the	was	who:12
+and	was	who:13
+it	was	who:16
+is	this	who:14
+the	this	who:14
+to	for	who:12
+and	for	who:14
+the	for	who:19
+the	of	who:21
+that	is	who:15
+it	are	who:12
+the	are	who:17
+you	are	who:18
+is	in	who:14
+to	in	who:14
+the	in	who:20
+you	it	who:12
+you	is	who:14
+the	you	who:19
+and	name	who:15
+is	and	who:15
+it	and	who:16
+to	and	who:19
+the	and	who:20
+to	name	who:16
+is	name	who:18
+the	name	who:19
+it	is	who:15
+to	it	who:18
+the	it	who:26
+to	is	who:17
+the	is	who:29
+the	to	who:30
+get	as:12
+think	as:13
+at	as:13
+my	as:13
+can	as:13
+me	as:14
+do	as:14
+one	as:15
+don	as:15
+know	as:15
+with	as:15
+like	as:16
+the	we	as:12
+would	as:18
+why	as:18
+so	as:18
+about	as:19
+or	as:19
+they	as:22
+he	as:22
+on	as:22
+have	as:22
+to	for	as:12
+the	for	as:15
+you	if	as:13
+to	are	as:13
+the	are	as:15
+it	was	as:12
+to	what	as:13
+is	just	as:12
+to	just	as:12
+the	just	as:14
+to	how	as:17
+the	be	as:12
+to	be	as:20
+the	but	as:12
+it	but	as:13
+this	in	as:12
+to	in	as:15
+the	in	as:23
+is	not	as:12
+it	not	as:12
+that	not	as:12
+you	not	as:13
+to	not	as:14
+the	not	as:20
+it	of	as:13
+to	of	as:13
+you	of	as:15
+the	of	as:24
+it	and	as:12
+and	name	as:16
+is	and	as:16
+to	and	as:16
+the	and	as:20
+that	name	as:14
+to	name	as:14
+is	name	as:17
+the	name	as:24
+the	this	as:15
+is	this	as:16
+to	this	as:19
+that	you	as:15
+you	is	as:17
+to	you	as:22
+the	you	as:22
+you	it	as:23
+that	it	as:19
+to	that	as:19
+that	is	as:23
+the	that	as:25
+to	is	as:22
+the	it	is	as:13
+the	to	it	as:14
+one	get:13
+know	get:13
+so	get:14
+people	get:15
+like	get:15
+at	get:17
+your	get:17
+or	get:17
+to	be	get:13
+have	get:17
+on	get:21
+you	do	get:13
+to	they	get:12
+the	they	get:13
+he	get:22
+did	get:23
+we	get:23
+it	me	get:12
+the	but	get:13
+to	my	get:12
+the	not	get:12
+to	not	get:13
+just	get:25
+the	if	get:19
+to	are	get:12
+the	are	get:14
+you	are	get:17
+why	get:29
+to	what	get:12
+the	what	get:15
+with	get:30
+it	don	get:12
+the	don	get:15
+the	for	get:15
+to	for	get:17
+it	can	get:12
+the	can	get:14
+the	name	get:15
+to	name	get:16
+this	get:36
+it	of	get:12
+you	of	get:13
+to	of	get:16
+the	of	get:20
+it	how	get:13
+you	how	get:13
+that	how	get:13
+in	how	get:15
+the	how	get:15
+to	how	get:20
+the	that	is	get:13
+the	to	is	get:13
+and	in	get:13
+it	in	get:13
+that	in	get:13
+the	to	in	get:12
+you	and	get:14
+it	and	get:15
+to	that	and	get:13
+the	to	and	get:14
+that	it	get:12
+that	you	get:19
+the	to	that	get:17
+you	it	get:18
+the	to	it	get:13
+the	to	you	get:14
+we	people:13
+my	people:13
+was	people:13
+or	people:14
+know	people:16
+can	people:16
+all	people:17
+at	people:17
+me	people:17
+there	people:18
+think	people:19
+if	people:20
+be	people:20
+have	people:22
+about	people:25
+the	name	people:13
+to	with	people:12
+it	but	people:12
+why	people:27
+the	on	people:14
+the	they	people:13
+are	they	people:16
+the	don	people:12
+to	do	people:12
+to	for	people:12
+the	what	people:14
+that	like	people:13
+are	so	people:12
+the	so	people:15
+is	how	people:12
+it	how	people:12
+to	how	people:13
+the	not	people:19
+to	just	people:12
+and	just	people:14
+the	this	people:16
+is	this	people:19
+to	this	people:20
+to	you	people:13
+in	are	people:12
+is	in	people:13
+that	in	people:18
+to	in	people:19
+the	of	in	people:12
+that	and	people:14
+and	of	people:15
+is	and	people:18
+it	and	people:22
+the	to	and	people:12
+of	are	people:14
+is	are	people:14
+to	are	people:15
+it	are	people:18
+that	are	people:20
+the	are	people:24
+that	is	people:17
+to	is	people:20
+the	is	of	people:16
+it	of	people:17
+to	of	people:22
+the	that	of	people:13
+that	it	people:16
+to	that	people:22
+to	it	people:16
+the	it	people:25
+we	did:13
+at	did:13
+about	did:13
+like	did:13
+one	did:14
+think	did:14
+do	did:14
+all	did:16
+your	did:16
+on	did:16
+my	did:17
+if	did:17
+with	did:18
+so	did:18
+have	did:19
+but	did:22
+know	did:23
+they	did:23
+or	did:24
+is	did:24
+the	just	did:13
+the	for	did:14
+the	in	did:17
+to	why	did:13
+the	why	did:13
+you	of	did:12
+to	of	did:12
+the	of	did:20
+and	this	did:14
+that	how	did:12
+to	how	did:12
+the	how	did:16
+to	he	did:13
+the	he	did:15
+was	not	did:12
+to	was	did:14
+it	was	did:15
+you	was	did:15
+the	was	did:22
+it	what	did:13
+to	what	did:13
+you	what	did:14
+the	what	did:16
+it	not	did:13
+you	not	did:14
+to	not	did:17
+the	not	did:20
+that	name	did:12
+and	name	did:14
+the	name	did:15
+that	and	did:14
+it	and	did:16
+you	and	did:17
+to	and	did:21
+the	and	did:22
+the	that	you	did:13
+you	it	did:18
+the	it	did:22
+to	it	did:25
+the	to	you	did:14
+think	all:12
+or	all:12
+your	all:13
+like	all:13
+there	all:14
+my	all:14
+how	all:16
+know	all:17
+about	all:19
+why	all:19
+so	all:19
+don	all:21
+to	be	all:13
+you	do	all:12
+but	all:22
+to	have	all:12
+the	have	all:14
+me	all:23
+the	if	all:12
+with	all:24
+the	they	all:15
+the	was	all:13
+the	can	all:13
+of	on	all:13
+the	on	all:21
+just	all:29
+to	not	all:12
+the	not	all:15
+it	what	all:12
+you	what	all:13
+the	what	all:15
+name	for	all:13
+the	for	all:15
+that	for	all:16
+you	at	all:12
+that	at	all:13
+the	at	all:17
+that	name	all:15
+the	name	all:16
+the	we	all:17
+that	in	all:15
+and	in	all:16
+the	to	in	all:12
+you	this	all:12
+is	this	all:16
+the	this	all:22
+it	are	all:13
+to	are	all:13
+is	are	all:15
+that	are	all:17
+the	are	all:18
+you	are	all:19
+and	of	all:12
+it	of	all:12
+to	of	all:14
+that	of	all:18
+the	of	all:27
+is	and	all:12
+you	and	all:14
+that	and	all:15
+it	and	all:17
+to	and	all:17
+the	and	all:29
+you	it	all:17
+that	you	all:18
+you	is	all:19
+the	you	all:19
+to	you	all:21
+it	is	all:16
+to	it	all:16
+that	it	all:18
+the	it	all:25
+the	to	is	all:13
+the	that	is	all:14
+the	to	that	all:15
+we	one:14
+do	one:14
+he	one:14
+like	one:14
+can	one:15
+would	one:16
+the	about	one:12
+know	one:16
+if	one:17
+the	on	one:14
+just	one:17
+me	one:18
+with	one:18
+they	one:19
+or	one:20
+to	my	one:12
+to	be	one:14
+the	at	one:15
+so	one:22
+the	why	one:12
+you	are	one:15
+how	one:24
+have	one:25
+the	but	one:12
+the	not	one:16
+to	what	one:14
+the	what	one:18
+of	for	one:12
+is	for	one:12
+to	for	one:14
+the	for	one:24
+to	name	one:12
+of	name	one:14
+and	name	one:15
+the	name	one:23
+the	of	was	one:14
+the	and	was	one:13
+of	in	one:12
+and	in	one:13
+the	to	in	one:14
+and	this	one:13
+that	this	one:13
+to	this	one:13
+you	this	one:14
+is	this	one:16
+the	this	one:22
+you	it	one:12
+it	of	one:14
+that	it	one:14
+the	to	it	one:12
+the	it	is	one:13
+that	you	one:13
+you	is	one:14
+you	and	one:16
+the	to	you	one:12
+the	you	of	one:14
+the	to	that	one:12
+the	that	of	one:12
+the	that	and	one:13
+the	that	is	one:14
+the	is	and	one:13
+the	is	of	one:17
+the	to	is	one:15
+the	and	of	one:12
+the	to	and	one:13
+the	to	of	one:15
+at	think:15
+know	think:16
+your	think:17
+we	think:18
+there	think:19
+my	think:19
+how	think:20
+or	think:21
+like	think:21
+me	think:22
+he	think:22
+would	think:23
+you	why	think:14
+the	with	think:16
+have	think:23
+so	think:24
+you	if	think:14
+to	about	think:12
+the	about	think:13
+just	think:28
+the	this	think:15
+you	can	think:15
+you	not	think:13
+the	on	think:17
+the	do	think:13
+you	do	think:26
+it	they	think:12
+the	they	think:12
+the	are	think:12
+you	be	think:13
+that	be	think:14
+to	be	think:15
+it	be	think:16
+the	be	think:16
+name	for	think:12
+is	for	think:12
+it	for	think:13
+the	for	think:17
+it	was	think:12
+that	was	think:12
+the	was	think:15
+the	but	think:13
+it	but	think:15
+the	what	think:12
+is	what	think:13
+that	what	think:13
+it	what	think:15
+you	what	think:23
+to	in	think:13
+you	in	think:14
+it	in	think:15
+the	in	think:17
+you	name	think:12
+that	name	think:14
+to	name	think:14
+the	name	think:25
+to	and	think:17
+that	and	think:18
+the	you	and	think:12
+the	it	and	think:12
+is	of	think:13
+to	is	think:13
+that	is	think:14
+it	is	think:18
+you	is	think:22
+the	is	think:27
+that	of	think:15
+to	of	think:17
+it	of	think:18
+you	of	think:19
+the	of	think:24
+you	don	think:12
+to	don	think:14
+the	don	think:16
+it	don	think:22
+that	it	think:22
+the	to	that	think:12
+that	you	think:28
+the	to	you	think:16
+the	to	it	think:18
+you	it	think:26
+they	we:12
+my	we:14
+he	we:14
+would	we:16
+at	we:20
+with	we:20
+but	we:20
+why	we:21
+about	we:22
+so	we:22
+like	we:22
+the	was	we:14
+or	we:23
+to	be	we:12
+to	how	we:12
+know	we:27
+to	do	we:13
+the	just	we:14
+you	we:28
+the	on	we:14
+the	if	we:18
+to	not	we:14
+the	not	we:15
+what	we:33
+the	don	we:12
+to	for	we:13
+the	for	we:15
+to	can	we:13
+the	can	we:13
+that	are	we:12
+to	are	we:13
+the	are	we:21
+this	in	we:14
+to	in	we:17
+the	in	we:27
+of	this	we:15
+to	of	we:16
+the	of	we:19
+to	have	we:14
+the	have	we:19
+it	is	we:13
+to	is	we:13
+is	this	we:16
+the	is	we:33
+to	it	we:13
+it	and	we:14
+the	it	we:22
+this	name	we:13
+that	name	we:13
+to	name	we:15
+and	name	we:17
+the	name	we:25
+and	this	we:12
+to	this	we:12
+the	this	we:22
+to	and	we:13
+that	and	we:18
+the	and	we:30
+to	that	we:20
+the	that	we:27
+the	to	we:38
+there	would:15
+your	would:15
+about	would:15
+me	would:15
+with	would:17
+at	would:20
+my	would:20
+the	on	would:12
+or	would:23
+know	would:25
+you	do	would:13
+he	would:25
+but	would:25
+that	so	would:12
+to	so	would:12
+the	so	would:12
+it	just	would:13
+to	they	would:12
+the	they	would:12
+it	they	would:14
+if	they	would:16
+to	like	would:15
+to	not	would:14
+the	not	would:18
+to	name	would:14
+the	name	would:19
+it	how	would:13
+the	how	would:13
+to	how	would:14
+is	of	would:13
+that	is	would:13
+is	and	would:14
+is	be	would:16
+to	is	would:16
+the	is	would:19
+for	be	would:12
+to	for	would:17
+the	for	would:19
+was	if	would:15
+that	was	would:17
+it	was	would:18
+the	was	would:19
+this	if	would:12
+this	in	would:12
+the	this	would:16
+this	be	would:17
+to	this	would:17
+you	why	would:13
+the	why	would:14
+that	why	would:16
+to	why	would:16
+what	if	would:13
+of	what	would:13
+that	what	would:16
+the	what	would:16
+to	you	what	would:12
+to	what	be	would:13
+you	what	be	would:13
+in	have	would:12
+in	if	would:16
+the	to	in	would:12
+in	be	would:17
+that	in	would:22
+have	be	would:13
+it	have	would:13
+you	have	would:13
+that	have	would:15
+the	have	would:17
+to	have	would:18
+of	if	would:12
+and	of	would:14
+it	of	would:14
+you	of	would:15
+the	to	of	would:12
+the	of	be	would:15
+the	that	of	would:12
+and	if	would:16
+you	and	would:16
+it	and	would:17
+that	and	would:18
+to	and	be	would:16
+the	to	and	would:12
+you	if	would:24
+that	if	would:24
+it	be	if	would:12
+to	be	if	would:17
+the	if	would:29
+you	it	would:16
+that	it	would:20
+the	it	would:23
+to	it	be	would:15
+the	you	would:21
+to	you	be	would:15
+that	you	would:26
+to	that	be	would:14
+the	that	be	would:14
+the	to	be	would:17
+my	there:14
+me	there:16
+with	there:16
+the	at	there:13
+know	there:17
+don	there:18
+do	there:18
+just	there:18
+he	there:19
+is	why	there:13
+how	there:21
+to	they	there:12
+the	they	there:12
+so	there:23
+the	can	there:12
+have	there:23
+like	there:24
+about	there:25
+the	or	there:13
+the	if	there:16
+the	be	there:13
+to	be	there:14
+what	there:30
+to	but	there:12
+it	but	there:14
+the	but	there:14
+it	not	there:13
+that	not	there:13
+is	not	there:15
+the	not	there:16
+to	was	there:12
+the	was	there:19
+this	on	there:12
+to	on	there:12
+is	on	there:14
+that	on	there:14
+and	on	there:15
+the	on	there:17
+name	are	there:12
+is	name	there:13
+that	name	there:14
+the	name	there:14
+you	in	there:12
+you	and	there:12
+you	is	there:13
+that	you	there:13
+to	you	there:13
+the	you	there:18
+it	for	there:12
+to	for	there:13
+is	for	there:17
+the	for	there:17
+that	for	there:18
+of	this	there:12
+the	this	there:13
+this	in	there:14
+to	this	there:14
+is	this	there:19
+of	are	there:14
+and	of	there:14
+of	in	there:15
+to	of	there:17
+that	of	there:20
+the	is	of	there:12
+it	are	there:13
+it	is	there:18
+it	and	there:20
+the	it	there:21
+to	it	there:22
+in	are	there:14
+that	are	there:15
+to	are	there:17
+the	are	there:17
+and	in	there:16
+that	and	there:16
+the	to	and	there:13
+the	is	and	there:14
+to	in	there:15
+that	in	there:16
+the	is	in	there:14
+to	that	there:23
+the	that	is	there:12
+the	to	is	there:18
+know	at:14
+why	at:14
+don	at:15
+about	at:16
+me	at:18
+your	at:20
+the	for	at:12
+the	on	at:17
+so	at:24
+are	at:24
+the	with	at:14
+just	at:25
+the	if	at:13
+the	he	at:17
+the	or	at:13
+the	do	at:14
+the	my	at:16
+the	like	at:12
+to	be	at:13
+the	be	at:15
+the	how	at:16
+the	they	at:17
+the	can	at:20
+the	have	at:17
+the	but	at:14
+to	not	at:13
+the	not	at:20
+the	what	at:18
+the	name	at:23
+and	was	at:14
+it	was	at:16
+that	was	at:21
+the	was	at:24
+that	in	at:12
+to	in	at:12
+and	in	at:13
+the	in	at:33
+it	this	at:12
+to	this	at:12
+and	this	at:13
+is	this	at:18
+the	this	at:24
+is	and	at:14
+that	is	at:14
+to	is	at:14
+it	is	at:17
+the	is	at:29
+you	of	at:12
+the	and	of	at:13
+the	it	of	at:12
+the	that	of	at:14
+the	to	of	at:15
+you	it	at:14
+that	you	at:15
+the	you	at:25
+the	to	that	at:14
+the	to	it	at:14
+the	to	and	at:15
+the	that	and	at:17
+the	it	and	at:15
+that	it	at:18
+they	your:15
+he	your:17
+you	know	your:12
+be	your:18
+my	your:22
+so	your:22
+you	about	your:12
+you	why	your:12
+you	do	your:24
+you	can	your:17
+that	but	your:12
+the	but	your:12
+name	your:26
+don	your:27
+is	or	your:12
+you	or	your:18
+you	like	your:12
+it	like	your:14
+it	if	your:12
+you	if	your:18
+is	this	your:16
+you	this	your:16
+to	this	your:16
+you	how	your:19
+is	on	your:12
+and	on	your:13
+to	on	your:14
+it	on	your:15
+you	on	your:18
+that	with	your:13
+you	with	your:21
+that	have	your:12
+to	you	have	your:13
+to	just	your:14
+the	just	your:14
+it	just	your:16
+you	just	your:18
+you	are	your:30
+that	for	your:14
+the	for	your:15
+you	for	your:22
+it	was	your:12
+you	was	your:12
+the	was	your:13
+that	was	your:14
+that	not	your:12
+you	not	your:14
+is	not	your:15
+it	not	your:15
+to	not	your:17
+it	what	your:12
+to	what	your:12
+and	what	your:14
+is	what	your:16
+you	what	your:23
+and	of	your:13
+that	of	your:13
+it	of	your:17
+to	of	your:18
+the	you	of	your:14
+is	in	your:15
+it	in	your:16
+to	you	in	your:12
+the	in	your:23
+it	and	your:17
+that	and	your:18
+is	and	your:20
+the	to	and	your:13
+to	you	and	your:14
+that	is	your:18
+that	it	your:21
+the	to	that	your:17
+to	that	you	your:13
+it	is	your:19
+the	is	your:19
+to	you	is	your:13
+to	you	it	your:12
+the	it	your:26
+the	to	you	your:16
+my	don:15
+was	don:18
+you	do	don:12
+with	don:22
+know	about	don:15
+on	don:24
+me	don:26
+to	be	don:15
+the	not	don:12
+he	don:28
+the	can	don:12
+like	don:31
+so	don:32
+it	are	don:13
+that	why	don:12
+the	or	don:15
+that	have	don:13
+to	have	don:14
+you	have	don:17
+is	if	don:12
+you	if	don:12
+it	if	don:14
+the	if	don:15
+to	if	don:16
+if	know	don:19
+it	for	don:13
+for	know	don:14
+the	for	don:16
+this	how	don:13
+that	how	don:13
+you	how	don:16
+to	how	don:16
+how	know	don:18
+it	they	don:13
+that	they	don:13
+to	they	don:13
+is	they	don:14
+the	they	don:21
+and	in	don:13
+and	this	don:13
+you	and	don:13
+the	and	don:17
+that	name	don:12
+is	name	don:13
+name	know	don:17
+the	name	don:19
+just	know	don:13
+that	just	don:13
+to	just	don:13
+the	just	don:16
+you	just	don:17
+is	in	don:12
+this	in	don:13
+it	in	don:13
+to	in	don:13
+that	in	don:16
+you	in	don:18
+in	know	don:20
+the	in	don:21
+is	of	don:12
+of	this	don:13
+you	of	don:15
+the	it	of	don:12
+of	know	don:19
+that	of	don:19
+is	but	don:13
+that	but	don:13
+to	but	don:15
+the	but	don:15
+it	but	know	don:13
+you	this	don:14
+to	this	don:16
+it	this	don:17
+this	know	don:18
+the	is	this	don:17
+that	what	don:13
+it	what	don:15
+is	what	don:20
+to	what	don:22
+the	what	don:24
+you	what	don:25
+what	know	don:29
+to	is	don:20
+it	is	don:21
+you	is	don:22
+that	is	don:25
+the	is	know	don:12
+that	it	don:18
+to	that	don:22
+that	you	don:24
+the	that	don:31
+that	know	don:33
+to	you	it	don:12
+the	to	don:28
+to	know	don:29
+you	know	don:27
+the	you	don:32
+or	about:17
+they	about:17
+why	about:18
+like	about:19
+with	about:21
+can	about:21
+to	be	about:12
+the	be	about:12
+the	if	about:13
+me	about:26
+the	he	about:13
+you	have	about:13
+you	do	about:18
+the	know	about:13
+you	know	about:14
+so	about:29
+what	for	about:12
+the	for	about:15
+what	on	about:12
+you	on	about:16
+the	on	about:16
+my	about:36
+and	just	about:13
+it	just	about:13
+that	just	about:15
+you	just	about:16
+to	just	about:16
+the	just	about:18
+the	but	about:13
+it	but	about:15
+to	but	about:17
+of	was	about:12
+and	was	about:14
+it	was	about:18
+the	was	about:24
+and	in	about:12
+of	in	about:13
+to	in	about:13
+you	in	about:15
+that	in	about:15
+the	in	about:31
+of	how	about:12
+it	how	about:15
+to	how	about:16
+the	how	about:18
+this	not	about:12
+it	not	about:14
+what	not	about:15
+is	not	about:15
+you	not	about:19
+to	not	about:20
+the	not	about:24
+to	are	about:13
+this	are	about:14
+is	are	about:14
+the	are	about:16
+you	what	are	about:15
+is	name	about:12
+this	name	about:13
+that	name	about:15
+to	name	about:15
+name	what	about:19
+the	name	about:31
+of	this	about:13
+it	of	about:13
+the	and	of	about:12
+that	of	about:17
+you	of	about:18
+the	to	of	about:14
+that	this	about:12
+this	what	about:15
+you	this	about:18
+it	this	about:19
+to	this	about:21
+is	this	about:22
+the	this	about:27
+is	and	about:14
+that	is	about:18
+you	is	about:19
+it	is	about:22
+the	to	is	about:14
+is	what	about:24
+you	and	about:13
+and	what	about:16
+that	and	about:20
+it	and	about:21
+to	and	about:26
+that	what	about:15
+that	it	about:17
+that	you	about:23
+the	to	that	about:13
+you	it	about:19
+it	what	about:23
+to	it	about:24
+the	it	about:33
+to	what	about:21
+the	you	what	about:12
+to	you	about:29
+with	know:17
+or	know:19
+why	know:21
+my	know:22
+can	know:22
+on	know:22
+me	know:25
+to	so	know:21
+it	have	know:12
+you	have	know:15
+he	know:31
+you	like	know:12
+that	like	know:13
+you	be	know:12
+it	be	know:15
+to	be	know:15
+are	they	know:12
+you	they	know:12
+it	they	know:13
+to	they	know:13
+the	are	know:13
+you	are	know:16
+to	are	know:16
+the	for	know:12
+name	for	know:13
+that	for	know:13
+that	was	know:13
+the	was	know:18
+you	and	know:12
+that	and	know:13
+the	and	know:18
+the	just	know:14
+to	just	know:16
+it	just	know:19
+that	just	know:20
+what	do	know:12
+this	do	know:12
+to	do	know:12
+that	do	know:13
+it	do	know:14
+you	how	do	know:12
+is	if	know:12
+the	if	know:16
+you	it	if	know:12
+to	if	know:22
+not	but	know:12
+is	not	know:13
+that	not	know:13
+you	not	know:16
+to	not	know:17
+of	what	know:13
+to	of	know:13
+it	of	know:15
+of	in	know:17
+that	of	know:18
+the	you	of	know:13
+this	in	know:12
+it	in	know:13
+to	in	know:13
+in	but	know:14
+is	in	know:14
+name	in	know:15
+the	in	know:19
+that	you	in	know:14
+it	this	know:12
+this	how	know:14
+that	this	know:14
+you	this	know:16
+to	this	know:16
+the	this	know:16
+is	this	know:17
+is	but	know:13
+you	but	know:16
+to	but	know:17
+that	but	know:20
+the	but	know:22
+is	name	know:16
+you	name	know:19
+that	name	know:21
+the	name	know:22
+it	how	know:12
+is	how	know:13
+the	how	know:13
+to	how	know:19
+that	how	know:23
+is	what	know:17
+it	what	know:18
+that	what	know:19
+the	what	know:20
+you	what	know:29
+to	what	know:29
+the	it	is	know:13
+that	is	know:24
+you	is	know:25
+the	to	is	know:14
+that	it	know:26
+the	you	it	know:12
+to	you	it	know:14
+to	that	know:31
+the	that	know:31
+or	me:18
+do	me:22
+to	be	me:12
+this	why	me:12
+to	he	me:13
+to	have	me:15
+to	can	me:14
+the	can	me:14
+if	me:29
+the	on	me:13
+the	so	me:12
+it	so	me:13
+to	so	me:19
+it	like	me:13
+to	like	me:19
+the	how	me:14
+to	how	me:15
+and	are	me:12
+to	are	me:12
+it	are	me:13
+you	are	me:18
+you	with	me:12
+it	with	me:13
+and	with	me:14
+to	with	me:20
+this	not	me:12
+and	not	me:12
+it	not	me:13
+that	not	me:14
+the	to	not	me:12
+of	for	me:13
+to	for	me:13
+it	for	me:14
+the	for	me:19
+this	just	me:13
+and	just	me:14
+is	just	me:14
+that	just	me:15
+the	just	me:15
+to	just	me:19
+it	just	me:21
+in	my	me:12
+it	in	me:12
+this	in	me:14
+of	in	me:14
+that	in	me:16
+to	in	me:21
+the	in	me:22
+of	my	me:12
+and	my	me:13
+this	my	me:20
+the	my	me:20
+to	my	me:21
+this	was	me:13
+that	was	me:13
+and	was	me:14
+to	was	me:20
+the	was	me:20
+it	was	me:22
+is	what	me:12
+this	what	me:13
+the	what	me:13
+you	what	me:15
+it	what	me:17
+to	what	me:19
+of	but	me:12
+name	but	me:15
+it	but	me:15
+that	but	me:17
+the	but	me:19
+to	but	me:22
+of	name	me:13
+is	name	me:14
+it	name	me:15
+that	name	me:15
+and	name	me:16
+the	name	me:19
+to	name	me:25
+is	of	me:22
+to	is	and	me:13
+to	is	this	me:15
+to	that	is	me:12
+the	that	is	me:13
+it	is	me:25
+the	to	is	me:15
+that	you	me:13
+you	it	me:16
+the	you	me:16
+you	and	me:18
+to	you	me:27
+of	this	me:17
+and	of	me:17
+it	of	me:22
+that	of	me:23
+to	of	me:26
+the	of	me:36
+that	this	me:16
+and	this	me:17
+the	this	me:24
+it	this	me:25
+the	that	and	me:12
+the	it	and	me:12
+to	it	and	me:13
+the	to	and	me:14
+that	it	me:24
+the	to	that	me:14
+the	to	it	me:12
+how	or:15
+why	or:16
+my	or:17
+it	like	or:13
+the	so	or:12
+to	be	or:17
+but	or:30
+the	with	or:12
+to	they	or:12
+the	they	or:18
+what	or:33
+it	was	or:15
+to	was	or:15
+the	was	or:19
+to	he	or:12
+the	he	or:13
+to	are	or:12
+the	are	or:14
+you	are	or:18
+that	for	or:12
+the	for	or:12
+you	for	or:13
+is	for	or:16
+to	for	or:17
+have	do	or:12
+is	do	or:13
+to	do	or:14
+the	do	or:14
+you	do	or:25
+is	on	or:13
+to	on	or:14
+you	on	or:16
+the	on	or:16
+that	can	or:12
+if	can	or:13
+to	can	or:13
+you	can	or:15
+the	can	or:18
+of	have	or:12
+that	have	or:12
+it	have	or:13
+the	have	or:17
+you	have	or:20
+to	have	or:21
+in	if	or:12
+is	if	or:13
+that	if	or:13
+it	if	or:17
+not	if	or:18
+to	if	or:20
+the	if	or:27
+this	just	or:15
+that	just	or:15
+in	just	or:17
+you	just	or:17
+the	just	or:18
+to	just	or:19
+it	just	or:20
+is	just	or:21
+and	not	or:12
+is	and	or:12
+it	and	or:12
+that	and	or:12
+you	and	or:13
+to	and	or:23
+the	and	or:25
+of	name	or:13
+it	name	or:14
+name	not	or:16
+to	name	or:16
+name	in	or:17
+is	name	or:19
+that	name	or:20
+the	name	or:23
+of	in	or:14
+you	of	or:14
+of	this	or:15
+that	of	or:16
+to	of	or:17
+the	it	of	or:12
+the	is	of	or:12
+in	not	or:14
+is	not	or:15
+that	not	or:21
+it	not	or:24
+to	not	or:24
+the	not	or:33
+that	this	or:14
+it	this	or:16
+the	this	or:17
+you	this	or:21
+to	this	or:23
+is	this	or:35
+you	in	or:15
+it	in	or:17
+is	in	or:18
+to	in	or:22
+the	in	or:36
+that	it	or:18
+that	you	or:18
+to	that	or:24
+the	that	is	or:12
+the	you	it	or:13
+the	it	is	or:15
+the	to	it	or:12
+to	you	or:26
+the	you	is	or:14
+the	to	is	or:14
+was	do:16
+my	do:25
+he	do:26
+you	be	do:15
+you	like	do:12
+the	but	do:12
+you	but	do:13
+to	if	do:14
+it	if	do:16
+you	if	do:20
+you	so	do:19
+to	can	do:12
+it	can	do:13
+you	can	do:18
+that	on	do:12
+the	on	do:12
+to	on	do:13
+you	on	do:19
+is	for	do:12
+the	for	do:14
+to	you	for	do:12
+to	why	do:12
+the	why	do:16
+you	why	do:23
+what	are	do:12
+that	are	do:12
+to	you	are	do:13
+the	you	are	do:14
+not	they	do:13
+that	they	do:14
+the	they	do:18
+to	they	do:19
+name	what	do:13
+to	name	do:14
+the	name	do:16
+you	name	do:18
+the	just	do:12
+just	with	do:13
+and	just	do:13
+it	just	do:17
+to	just	do:18
+you	just	do:21
+is	this	do:12
+it	is	do:12
+is	what	do:13
+is	how	do:14
+that	is	do:18
+to	is	do:18
+the	is	do:18
+you	is	do:29
+it	with	do:14
+what	with	do:17
+the	to	with	do:15
+you	with	do:25
+of	this	do:12
+that	of	do:12
+of	not	do:13
+of	in	do:14
+it	of	do:14
+of	what	do:17
+the	to	of	do:14
+the	you	of	do:16
+in	not	do:15
+that	in	do:18
+the	to	in	do:12
+the	you	in	do:12
+and	how	do:12
+and	have	do:12
+and	this	do:13
+it	and	do:16
+the	and	do:19
+to	and	do:23
+you	and	do:28
+not	how	do:12
+this	not	do:12
+it	not	do:14
+that	not	do:20
+to	not	do:20
+the	not	do:22
+you	not	do:29
+it	this	do:15
+this	have	do:16
+the	to	this	do:12
+you	this	do:32
+the	how	do:15
+that	how	do:18
+it	how	do:22
+to	how	do:22
+that	have	do:13
+it	have	do:14
+what	have	do:16
+the	to	have	do:15
+to	you	have	do:12
+that	it	do:17
+that	you	what	do:12
+the	to	that	do:14
+the	that	you	do:15
+to	that	you	do:14
+it	what	do:21
+the	you	it	do:15
+the	to	it	do:16
+to	you	it	do:15
+the	to	what	do:12
+the	you	what	do:13
+the	to	you	do:25
+how	why:12
+my	why:22
+it	was	why:13
+can	why:26
+the	with	why:15
+like	why:28
+is	what	why:12
+you	what	why:15
+to	what	why:15
+the	they	why:12
+the	if	why:14
+to	but	why:12
+it	but	why:13
+the	be	why:15
+to	be	why:22
+to	he	why:15
+the	he	why:19
+the	so	why:18
+you	on	why:14
+the	on	why:20
+that	have	why:12
+to	have	why:13
+the	have	why:15
+you	have	why:17
+and	just	why:12
+not	just	why:13
+it	just	why:15
+you	just	why:15
+to	just	why:15
+the	just	why:21
+you	for	why:12
+that	for	why:16
+to	for	why:16
+the	for	why:20
+not	are	why:12
+this	are	why:13
+is	are	why:13
+to	are	why:16
+the	are	why:16
+you	are	why:23
+you	in	why:12
+that	in	why:13
+to	in	why:15
+is	in	why:17
+the	in	why:27
+of	this	why:12
+is	of	why:12
+it	of	why:13
+to	of	why:15
+you	of	why:18
+that	of	why:19
+the	of	why:29
+this	name	why:12
+that	name	why:12
+and	name	why:14
+is	name	why:15
+to	name	why:15
+the	name	why:19
+that	not	why:12
+is	not	why:16
+you	not	why:17
+and	not	why:18
+it	not	why:18
+this	not	why:20
+the	not	why:23
+to	not	why:25
+is	and	why:17
+you	and	why:18
+that	and	why:20
+it	and	why:24
+the	to	and	why:14
+that	this	why:14
+you	this	why:19
+it	is	this	why:13
+to	this	why:24
+the	is	this	why:13
+that	it	why:21
+that	is	why:24
+to	that	you	why:12
+the	that	why:29
+you	is	why:15
+to	it	is	why:12
+the	to	is	why:12
+the	it	is	why:13
+to	you	it	why:13
+the	to	you	why:14
+can	with:18
+they	with:25
+you	are	with:12
+to	are	with:14
+the	are	with:15
+that	if	with:12
+it	if	with:13
+you	if	with:15
+to	if	with:15
+the	be	with:18
+to	be	with:20
+and	he	with:12
+the	he	with:12
+to	he	with:15
+it	so	with:14
+the	so	with:14
+to	so	with:15
+not	but	with:13
+to	but	with:16
+the	but	with:16
+to	for	with:14
+the	for	with:19
+to	my	with:12
+this	my	with:13
+the	my	with:14
+the	how	with:12
+is	how	with:13
+you	how	with:14
+you	like	with:12
+it	like	with:13
+that	like	with:13
+to	like	with:15
+the	like	with:16
+and	on	with:12
+that	on	with:12
+to	on	with:13
+the	on	with:17
+this	have	with:12
+it	have	with:14
+the	have	with:15
+you	have	with:19
+to	have	with:29
+to	was	with:14
+that	was	with:16
+it	was	with:17
+the	was	with:25
+that	not	with:14
+in	not	with:16
+to	not	with:21
+the	not	with:23
+and	just	with:12
+it	just	with:12
+you	just	with:13
+that	just	with:13
+to	just	with:21
+the	just	with:21
+and	of	with:13
+you	of	with:14
+that	of	with:15
+to	of	with:19
+the	of	with:34
+is	what	with:12
+that	what	with:12
+and	what	with:13
+it	what	with:13
+name	what	with:14
+this	what	with:15
+you	what	with:22
+the	to	what	with:13
+this	in	with:13
+that	in	with:13
+name	in	with:14
+it	in	with:14
+and	in	with:15
+is	in	with:15
+you	in	with:19
+to	in	with:26
+the	in	with:38
+you	this	with:13
+and	this	with:14
+that	this	with:14
+to	this	with:24
+the	this	with:26
+is	this	with:27
+and	name	with:14
+is	name	with:15
+you	name	with:15
+that	name	with:16
+it	name	with:19
+to	name	with:25
+the	name	with:33
+that	and	with:18
+is	and	with:19
+the	it	and	with:13
+you	and	with:24
+the	to	and	with:17
+the	it	is	with:14
+that	is	with:21
+the	you	is	with:12
+the	to	is	with:15
+that	it	with:17
+you	it	with:18
+the	to	it	with:19
+the	that	you	with:13
+the	to	that	with:17
+the	to	you	with:16
+my	they:21
+the	so	they:18
+you	can	they:14
+the	can	they:16
+are	how	they:14
+it	how	they:14
+the	how	they:14
+to	how	they:15
+not	like	they:12
+to	like	they:12
+that	like	they:15
+the	like	they:15
+it	like	they:16
+not	on	they:13
+to	on	they:13
+the	on	they:25
+be	if	they:12
+the	be	they:15
+to	it	be	they:12
+it	was	they:18
+the	was	they:22
+to	but	they:12
+that	but	they:13
+it	but	they:15
+the	but	they:16
+to	name	they:13
+and	name	they:16
+the	name	they:22
+that	for	they:14
+for	are	they:16
+it	for	they:16
+to	for	they:18
+the	for	they:19
+to	if	they:21
+it	if	they:23
+the	if	they:26
+what	are	they:12
+it	what	they:12
+that	what	they:13
+to	what	they:17
+the	what	they:19
+in	just	they:12
+that	just	they:12
+are	just	they:15
+and	just	they:16
+it	just	they:19
+the	just	they:21
+to	just	they:23
+this	have	they:12
+and	this	they:12
+this	are	they:13
+it	this	they:13
+this	not	they:16
+the	of	this	they:12
+to	this	they:20
+is	this	they:23
+you	not	they:12
+you	in	they:12
+that	you	they:12
+you	of	they:15
+you	it	they:19
+you	are	they:20
+to	you	they:20
+the	you	they:28
+in	have	they:12
+is	have	they:13
+of	have	they:14
+that	have	they:15
+not	have	they:17
+it	have	they:20
+the	to	have	they:14
+in	are	they:12
+that	in	they:12
+in	not	they:13
+of	in	they:16
+and	in	they:17
+is	in	they:17
+the	it	in	they:13
+the	to	in	they:18
+is	and	they:14
+is	are	they:15
+is	not	they:18
+the	is	of	they:15
+the	it	is	they:14
+to	is	they:20
+the	that	is	they:13
+of	not	they:13
+that	not	they:14
+it	not	they:17
+not	are	they:19
+to	not	they:19
+the	not	they:31
+and	of	they:18
+the	it	of	they:13
+the	that	of	they:13
+of	are	they:22
+the	to	of	they:17
+and	are	they:17
+that	and	they:18
+the	it	and	they:15
+the	to	and	they:20
+that	are	they:21
+the	that	it	they:13
+to	that	they:28
+the	to	are	they:13
+to	it	are	they:14
+the	it	are	they:15
+the	to	it	they:21
+can	my:21
+he	my:24
+you	are	my:12
+like	my:30
+so	my:33
+the	be	my:14
+to	be	my:19
+how	my:39
+it	if	my:12
+to	if	my:12
+the	if	my:14
+the	just	my:13
+to	just	my:14
+you	what	my:13
+to	what	my:14
+and	have	my:12
+it	have	my:12
+of	have	my:14
+to	have	my:14
+you	have	my:15
+is	for	my:13
+of	for	my:14
+to	for	my:15
+the	for	my:20
+is	not	my:13
+it	not	my:13
+to	not	my:19
+that	name	my:14
+is	name	my:17
+the	name	my:20
+and	on	my:12
+to	on	my:12
+is	on	my:13
+the	on	my:24
+you	but	my:12
+that	but	my:12
+and	but	my:13
+the	but	my:19
+to	but	my:20
+that	was	my:16
+of	was	my:17
+and	was	my:17
+in	was	my:18
+it	was	my:20
+to	was	my:22
+the	was	my:31
+of	this	my:13
+and	this	my:15
+it	this	my:15
+this	in	my:18
+the	is	this	my:13
+to	this	my:27
+that	it	my:12
+it	in	my:14
+it	of	my:14
+it	and	my:18
+it	is	my:22
+the	it	my:25
+to	it	my:26
+you	in	my:12
+you	of	my:13
+the	you	my:17
+you	and	my:18
+that	you	my:21
+to	you	my:27
+is	in	my:16
+that	in	my:18
+the	of	in	my:13
+and	in	my:22
+the	to	in	my:14
+that	of	my:16
+is	of	my:19
+the	and	of	my:14
+the	to	of	my:14
+to	is	and	my:12
+that	is	my:21
+the	to	is	my:13
+the	that	and	my:12
+the	to	and	my:15
+to	that	my:27
+you	are	he:14
+so	he:29
+to	be	he:20
+to	have	he:15
+the	have	he:16
+the	can	he:14
+to	like	he:12
+it	like	he:13
+the	like	he:15
+it	just	he:13
+to	just	he:17
+the	just	he:18
+is	if	he:13
+name	if	he:14
+you	if	he:14
+to	if	he:15
+the	if	he:16
+and	this	he:12
+this	name	he:13
+this	how	he:14
+is	this	he:14
+to	this	he:14
+the	this	he:15
+was	for	he:13
+name	for	he:13
+to	for	he:15
+the	for	he:23
+that	not	he:12
+name	not	he:13
+to	not	he:16
+the	not	he:22
+to	what	he:14
+is	what	he:15
+the	what	he:15
+it	on	he:12
+that	on	he:15
+to	on	he:16
+the	on	he:20
+you	how	he:12
+to	how	he:15
+and	how	he:16
+the	how	he:16
+is	how	he:19
+in	but	he:13
+name	but	he:14
+is	but	he:15
+it	but	he:15
+the	but	he:21
+that	in	he:12
+name	in	he:13
+is	in	he:14
+the	in	he:29
+of	was	he:12
+it	of	he:12
+is	of	he:14
+and	of	he:15
+the	of	name	he:13
+the	that	of	he:12
+to	of	he:21
+you	and	he:12
+you	is	he:13
+that	you	he:17
+to	you	he:27
+the	you	he:30
+it	was	he:14
+that	was	he:20
+name	was	he:22
+the	and	was	he:14
+the	to	was	he:13
+it	name	he:13
+it	is	he:20
+it	and	he:21
+that	it	he:24
+the	it	he:31
+to	it	he:33
+is	and	he:21
+the	that	and	he:16
+the	and	name	he:13
+the	to	and	he:17
+is	name	he:22
+that	is	he:22
+to	is	he:24
+the	is	he:32
+that	name	he:23
+the	to	name	he:16
+the	to	that	he:13
+to	if	so:14
+it	if	so:15
+it	have	so:12
+you	have	so:12
+the	have	so:12
+to	have	so:15
+that	like	so:13
+it	like	so:17
+to	like	so:18
+to	but	so:13
+it	but	so:16
+it	how	so:14
+that	how	so:14
+the	how	so:16
+to	how	so:18
+the	be	so:13
+it	be	so:15
+that	be	so:16
+to	be	so:21
+is	just	so:12
+that	just	so:12
+to	just	so:18
+it	just	so:21
+the	just	so:22
+that	can	so:13
+it	can	so:14
+to	can	so:14
+the	can	so:16
+you	can	so:20
+that	was	so:13
+the	it	was	so:12
+is	on	so:15
+that	on	so:15
+it	on	so:16
+to	on	so:19
+the	on	so:22
+is	not	so:13
+you	not	so:15
+to	not	so:18
+the	it	not	so:13
+of	in	so:12
+it	of	so:13
+you	of	so:14
+to	of	so:14
+that	of	so:16
+the	of	so:24
+you	for	so:14
+that	for	so:14
+to	for	so:16
+it	for	so:19
+the	for	so:25
+is	name	so:13
+that	name	so:14
+to	name	so:14
+and	name	so:16
+it	name	so:16
+the	name	so:23
+and	what	so:13
+that	what	so:13
+is	what	so:14
+what	are	so:16
+the	what	so:20
+it	what	so:21
+to	what	so:23
+you	what	so:25
+in	are	so:12
+that	are	so:13
+it	are	so:16
+and	are	so:18
+to	are	so:22
+the	you	are	so:12
+this	in	so:15
+is	in	so:15
+it	in	so:17
+that	in	so:17
+to	in	so:18
+you	in	so:22
+the	in	so:30
+that	this	so:12
+and	this	so:13
+it	this	so:14
+you	this	so:14
+the	this	so:20
+to	this	so:23
+is	this	so:25
+is	and	so:15
+you	and	so:17
+the	that	and	so:14
+to	it	and	so:12
+the	it	and	so:16
+the	to	and	so:17
+you	is	so:12
+that	is	so:21
+it	is	so:23
+to	is	so:25
+the	is	so:36
+that	it	so:23
+that	you	so:30
+the	to	that	so:14
+you	it	so:26
+to	you	so:33
+was	can:21
+the	like	can:14
+you	have	can:15
+to	have	can:16
+the	have	can:16
+that	are	can:12
+the	are	can:14
+you	are	can:22
+that	just	can:12
+the	just	can:14
+you	just	can:15
+that	if	can:13
+you	if	can:17
+the	if	can:17
+how	be	can:12
+that	be	can:12
+it	be	can:15
+to	be	can:17
+the	be	can:21
+in	not	can:12
+that	not	can:13
+you	not	can:14
+to	not	can:16
+the	not	can:18
+is	on	can:12
+of	on	can:13
+it	on	can:14
+that	on	can:14
+to	on	can:18
+the	on	can:20
+you	on	can:22
+that	what	can:16
+the	what	can:18
+to	what	can:19
+you	what	can:22
+you	but	can:14
+that	but	can:14
+it	but	can:17
+the	but	can:19
+to	but	can:20
+in	how	can:12
+to	how	can:13
+it	how	can:16
+the	how	can:16
+you	how	can:21
+that	for	can:15
+you	for	can:20
+the	to	for	can:13
+of	in	can:15
+the	it	of	can:14
+the	that	of	can:12
+the	you	of	can:14
+the	to	of	can:15
+that	name	can:13
+is	name	can:15
+to	name	can:16
+the	name	can:22
+is	in	can:15
+is	this	can:15
+is	and	can:17
+to	is	can:17
+the	it	is	can:13
+that	is	can:18
+you	is	can:20
+this	in	can:12
+it	this	can:13
+you	this	can:15
+the	to	this	can:12
+you	and	can:15
+that	and	can:15
+and	in	can:17
+it	and	can:18
+the	to	and	can:13
+that	in	can:18
+it	in	can:20
+the	to	in	can:12
+you	in	can:23
+that	it	can:18
+the	to	it	can:18
+you	it	can:35
+to	that	you	can:12
+the	to	that	can:17
+the	that	you	can:14
+the	to	you	can:15
+you	like	if:12
+that	like	if:13
+to	like	if:14
+the	like	if:17
+it	like	if:19
+the	how	if:15
+it	how	if:17
+to	you	how	if:12
+to	on	if:13
+it	on	if:16
+the	on	if:20
+you	but	if:16
+it	but	if:17
+to	but	if:18
+the	but	if:21
+not	just	if:14
+in	just	if:14
+you	just	if:15
+that	just	if:15
+it	just	if:21
+the	to	just	if:12
+is	are	if:12
+in	are	if:15
+it	are	if:17
+to	are	if:21
+the	are	if:21
+you	are	if:26
+it	have	if:16
+the	have	if:17
+to	you	have	if:13
+that	for	if:12
+name	for	if:14
+is	for	if:14
+you	for	if:14
+it	for	if:18
+in	for	if:19
+to	for	if:24
+the	for	if:27
+is	what	if:12
+name	what	if:13
+and	what	if:13
+that	what	if:13
+to	what	if:17
+it	what	if:19
+you	what	if:27
+the	what	if:30
+this	not	if:12
+that	this	if:12
+this	be	if:14
+this	in	if:15
+is	this	if:18
+it	this	if:19
+you	this	if:20
+the	this	if:22
+to	this	if:24
+is	not	if:14
+that	not	if:16
+you	not	if:18
+it	not	if:20
+the	to	not	if:12
+name	was	if:13
+was	be	if:15
+that	was	if:18
+to	was	if:18
+the	of	was	if:15
+it	was	if:28
+of	name	if:14
+is	name	if:15
+you	name	if:15
+it	name	if:17
+that	name	if:18
+to	name	if:18
+and	name	if:24
+the	name	if:32
+of	be	if:16
+is	of	if:17
+that	of	if:18
+to	of	if:21
+the	and	of	if:13
+you	of	if:23
+the	it	of	if:13
+in	be	if:15
+the	is	in	if:14
+the	it	in	if:13
+the	you	in	if:14
+the	that	in	if:12
+the	to	in	if:14
+is	be	if:17
+to	that	be	if:12
+and	be	if:21
+to	you	be	if:13
+the	to	be	if:19
+the	that	and	if:12
+the	is	and	if:13
+you	and	if:27
+the	it	and	if:14
+the	to	and	if:17
+the	you	is	if:15
+that	it	is	if:13
+to	that	is	if:14
+the	that	is	if:21
+to	it	is	if:12
+the	it	is	if:15
+the	to	is	if:17
+the	to	that	if:19
+the	that	you	if:18
+the	that	it	if:15
+the	you	it	if:13
+the	to	you	if:18
+to	you	it	if:23
+the	to	it	if:16
+and	how	like:12
+it	how	like:13
+that	how	like:13
+to	how	like:13
+of	are	like:12
+to	are	like:12
+you	are	like:13
+the	are	like:13
+it	are	like:14
+is	on	like:12
+that	on	like:13
+it	on	like:17
+the	on	like:17
+the	be	like:12
+it	be	like:17
+to	be	like:20
+that	not	like:13
+to	not	like:14
+it	not	like:16
+the	not	like:17
+you	for	like:12
+the	for	like:13
+it	for	like:14
+to	for	like:16
+that	for	like:19
+name	but	like:12
+and	but	like:12
+that	but	like:12
+it	but	like:17
+the	but	like:20
+that	have	like:12
+and	have	like:13
+it	have	like:16
+you	have	like:16
+to	have	like:20
+the	have	like:20
+that	just	like:13
+and	just	like:17
+it	just	like:20
+the	to	just	like:12
+that	was	like:17
+the	was	like:21
+it	was	like:29
+and	what	like:13
+that	what	like:13
+you	what	like:14
+it	what	like:17
+the	what	like:19
+to	what	like:21
+and	of	like:12
+you	of	like:13
+it	of	like:20
+that	of	like:20
+to	of	like:21
+the	of	like:28
+name	in	like:12
+you	in	like:14
+this	in	like:15
+it	in	like:16
+to	in	like:16
+and	in	like:17
+is	in	like:18
+the	that	in	like:15
+to	name	like:14
+it	name	like:16
+this	name	like:17
+and	name	like:17
+is	name	like:17
+that	name	like:19
+the	name	like:32
+is	and	like:18
+to	is	like:23
+is	this	like:26
+the	that	is	like:16
+the	it	is	like:14
+and	this	like:12
+that	this	like:12
+it	this	like:18
+the	this	like:20
+to	this	like:22
+you	and	like:19
+that	and	like:19
+to	and	like:25
+the	it	and	like:15
+you	it	like:24
+the	that	you	like:13
+to	that	you	like:14
+the	to	you	like:12
+that	it	like:35
+the	to	that	like:13
+the	to	it	like:12
+to	are	be:22
+you	have	be:12
+the	have	be:12
+it	have	be:13
+to	have	be:26
+this	was	be:12
+and	was	be:12
+the	was	be:15
+it	was	be:17
+that	was	be:17
+to	was	be:21
+of	just	be:12
+that	just	be:13
+and	just	be:14
+the	just	be:14
+it	just	be:16
+to	just	be:27
+it	how	be:14
+the	how	be:18
+to	how	be:22
+of	on	be:12
+this	on	be:13
+it	on	be:13
+to	on	be:22
+the	on	be:28
+not	but	be:13
+the	but	be:13
+that	but	be:15
+it	but	be:23
+to	but	be:26
+in	what	be:12
+this	what	be:14
+to	of	what	be:13
+to	is	what	be:12
+that	what	be:16
+to	it	what	be:13
+the	to	what	be:16
+to	you	what	be:19
+you	for	be:13
+name	for	be:14
+to	and	for	be:12
+this	for	be:15
+to	is	for	be:13
+to	that	for	be:12
+it	for	be:21
+the	to	for	be:19
+in	not	be:12
+of	not	be:13
+to	and	not	be:12
+it	not	be:18
+the	is	not	be:12
+to	is	not	be:13
+to	that	not	be:12
+the	to	not	be:15
+of	name	be:12
+this	name	be:15
+that	name	be:15
+is	name	be:19
+to	and	name	be:13
+the	to	name	be:12
+is	in	be:15
+the	of	in	be:12
+and	in	be:16
+this	in	be:19
+it	in	be:19
+to	that	in	be:12
+the	to	in	be:17
+and	this	be:13
+it	this	be:13
+that	this	be:19
+to	is	this	be:14
+to	of	this	be:12
+the	of	this	be:14
+the	to	this	be:15
+to	you	of	be:15
+to	is	of	be:13
+the	is	of	be:16
+to	and	of	be:12
+the	and	of	be:12
+to	it	of	be:12
+the	it	of	be:13
+to	that	of	be:13
+the	that	of	be:17
+the	to	of	be:30
+you	is	be:14
+to	is	and	be:13
+the	is	and	be:14
+the	that	is	be:12
+to	that	is	be:15
+the	it	is	be:13
+to	it	is	be:14
+the	to	is	be:31
+to	you	and	be:17
+to	that	you	be:13
+to	you	it	be:16
+the	to	you	be:18
+the	that	and	be:15
+to	that	and	be:16
+the	it	and	be:13
+to	it	and	be:16
+the	to	and	be:27
+to	that	it	be:15
+the	to	that	be:31
+the	to	it	be:28
+it	how	on:12
+you	how	on:12
+to	how	on:16
+the	how	on:19
+to	but	on:14
+it	but	on:16
+the	but	on:26
+this	are	on:12
+to	are	on:16
+you	what	are	on:12
+the	are	on:22
+that	just	on:13
+to	just	on:13
+you	just	on:17
+the	it	just	on:13
+was	for	on:12
+you	for	on:14
+that	for	on:14
+and	for	on:15
+it	for	on:15
+to	for	on:18
+the	for	on:28
+it	have	on:12
+of	have	on:13
+that	have	on:13
+you	have	on:19
+to	have	on:21
+the	have	on:23
+that	not	on:14
+is	not	on:16
+the	it	not	on:12
+to	not	on:17
+this	in	on:13
+it	in	on:13
+is	in	on:15
+of	in	on:17
+and	in	on:17
+the	that	in	on:13
+the	to	in	on:12
+the	you	in	on:13
+of	was	on:12
+to	was	on:12
+this	was	on:14
+name	was	on:15
+the	and	was	on:12
+the	it	was	on:15
+the	that	was	on:12
+it	what	on:12
+to	what	on:15
+that	what	on:16
+is	what	on:18
+the	what	on:32
+this	name	on:13
+and	name	on:14
+to	name	on:14
+of	name	on:15
+the	that	name	on:12
+is	name	on:23
+and	this	on:13
+it	this	on:14
+of	this	on:16
+you	this	on:18
+that	this	on:21
+is	this	on:25
+to	this	on:28
+the	this	on:32
+is	of	on:19
+you	of	on:19
+to	of	on:22
+the	it	of	on:14
+the	that	of	on:19
+the	and	of	on:18
+you	and	on:23
+the	is	and	on:12
+the	that	and	on:18
+the	it	and	on:19
+the	to	and	on:18
+you	is	on:21
+the	to	is	on:12
+the	that	is	on:16
+the	it	is	on:21
+you	it	on:20
+the	that	it	on:17
+the	to	it	on:18
+the	that	you	on:17
+the	to	you	on:13
+the	to	that	on:16
+you	have	just:12
+it	have	just:14
+to	have	just:19
+of	how	just:12
+that	how	just:12
+you	how	just:13
+it	how	just:14
+this	are	just:13
+the	are	just:16
+it	are	just:19
+to	are	just:21
+you	are	just:24
+and	for	just:14
+you	for	just:19
+it	for	just:20
+to	for	just:24
+the	for	just:26
+name	in	just:12
+and	name	just:13
+is	name	just:13
+that	name	just:13
+name	what	just:14
+it	name	just:15
+the	to	name	just:13
+of	but	just:13
+is	but	just:14
+you	but	just:15
+not	but	just:16
+that	but	just:17
+in	but	just:18
+to	but	just:19
+the	but	just:21
+it	but	just:22
+that	what	just:14
+is	what	just:15
+it	what	just:15
+and	what	just:17
+you	what	just:23
+the	what	just:24
+to	what	just:26
+of	was	just:12
+that	was	just:17
+the	and	was	just:13
+it	was	just:25
+the	to	was	just:13
+this	not	just:13
+is	not	just:15
+of	not	just:16
+and	not	just:19
+that	not	just:19
+the	in	not	just:12
+to	it	not	just:12
+the	you	not	just:12
+the	to	not	just:12
+this	in	just:16
+of	this	just:16
+you	this	just:17
+that	this	just:18
+and	this	just:20
+it	this	just:23
+the	is	this	just:16
+to	is	this	just:13
+you	in	just:18
+it	in	just:19
+is	in	just:20
+the	and	in	just:14
+the	of	in	just:14
+that	in	just:26
+the	to	in	just:17
+the	you	of	just:12
+is	of	just:20
+that	of	just:21
+the	and	of	just:14
+the	it	of	just:15
+the	to	of	just:19
+is	and	just:22
+you	is	just:25
+that	is	just:29
+the	to	is	just:14
+to	it	is	just:15
+the	it	is	just:18
+you	and	just:20
+that	you	just:32
+to	you	it	just:13
+the	to	you	just:16
+the	that	and	just:13
+to	it	and	just:20
+the	to	and	just:24
+the	it	and	just:19
+to	that	it	just:13
+the	that	it	just:14
+the	to	that	just:19
+the	to	it	just:20
+you	what	how:12
+is	but	how:12
+to	but	how:12
+you	but	how:13
+of	have	how:12
+and	have	how:12
+the	have	how:14
+to	have	how:18
+you	have	how:21
+this	for	how:12
+is	for	how:12
+it	for	how:14
+that	for	how:14
+the	for	how:19
+you	for	how:20
+to	for	how:22
+you	was	how:12
+this	was	how:13
+that	was	how:13
+to	was	how:13
+and	was	how:16
+it	was	how:17
+the	was	how:24
+that	not	how:16
+it	not	how:17
+this	not	how:18
+and	not	how:18
+you	not	how:19
+is	not	how:20
+the	not	how:20
+to	not	how:24
+this	name	how:12
+name	in	how:13
+you	name	how:14
+to	name	how:14
+it	name	how:15
+that	name	how:16
+is	name	how:19
+and	name	how:20
+the	name	how:26
+of	are	how:12
+this	are	how:13
+that	are	how:14
+and	are	how:15
+is	are	how:16
+it	are	how:20
+in	are	how:21
+the	are	how:23
+to	are	how:25
+you	are	how:32
+of	this	how:13
+of	in	how:16
+is	of	how:18
+and	of	how:19
+you	of	how:20
+it	of	how:22
+to	of	how:22
+the	of	how:36
+this	in	how:18
+and	in	how:20
+is	in	how:21
+it	in	how:23
+you	in	how:24
+that	in	how:24
+to	in	how:26
+the	in	how:45
+that	this	how:16
+you	this	how:23
+to	and	this	how:12
+the	and	this	how:12
+to	it	this	how:12
+it	is	this	how:13
+the	to	this	how:14
+to	is	this	how:15
+that	and	how:16
+to	you	and	how:13
+it	is	and	how:13
+the	is	and	how:19
+to	it	and	how:13
+the	it	and	how:20
+the	to	and	how:19
+that	it	how:21
+the	that	is	how:12
+that	you	how:38
+to	that	how:39
+the	to	is	how:12
+to	it	is	how:15
+you	it	is	how:12
+the	it	is	how:17
+the	you	it	how:12
+to	you	it	how:18
+the	to	it	how:13
+the	to	you	how:15
+you	are	but:14
+that	are	but:14
+to	are	but:14
+the	are	but:15
+it	are	but:21
+is	what	but:16
+that	what	but:17
+the	what	but:17
+you	what	but:20
+to	what	but:20
+it	what	but:23
+not	have	but:14
+in	have	but:14
+you	have	but:18
+that	have	but:20
+the	have	but:22
+it	have	but:25
+to	have	but:30
+that	this	but:12
+this	not	but:13
+this	was	but:15
+it	this	but:20
+to	this	but:21
+the	this	but:22
+is	this	but:26
+is	for	but:13
+you	for	but:13
+name	for	but:14
+that	for	but:14
+to	for	but:21
+it	for	but:22
+the	for	but:28
+in	was	but:12
+name	was	but:13
+to	was	but:21
+that	was	but:22
+the	was	but:26
+it	was	but:29
+is	and	but:13
+that	and	but:15
+and	name	but:19
+to	and	but:22
+the	it	and	but:13
+is	of	but:13
+of	name	but:16
+the	of	in	but:13
+you	of	but:19
+the	that	of	but:16
+the	it	of	but:18
+the	to	of	but:16
+in	not	but:14
+you	in	but:16
+name	in	but:17
+to	in	but:22
+that	in	but:29
+the	it	in	but:18
+you	name	but:13
+that	name	but:14
+the	it	name	but:12
+to	is	name	but:12
+the	is	name	but:12
+you	is	but:16
+you	not	but:22
+you	it	but:27
+the	that	you	but:14
+to	that	you	but:12
+the	that	not	but:12
+the	is	not	but:13
+to	it	not	but:13
+the	to	not	but:15
+the	that	is	but:15
+the	it	is	but:13
+the	to	is	but:14
+to	that	it	but:12
+the	to	that	but:19
+the	that	it	but:15
+the	to	it	but:19
+it	was	have:15
+to	was	have:17
+the	was	have:20
+not	are	have:12
+and	are	have:12
+it	are	have:12
+that	are	have:18
+the	you	are	have:12
+to	you	are	have:12
+this	for	have:12
+it	for	have:15
+and	for	have:16
+that	for	have:16
+the	for	have:19
+you	for	have:24
+to	for	have:24
+name	in	have:12
+of	name	have:14
+that	name	have:14
+it	name	have:16
+you	name	have:18
+to	name	have:19
+and	name	have:23
+the	name	have:25
+in	not	have:12
+and	not	have:12
+this	not	have:15
+it	not	have:15
+that	not	have:16
+to	you	not	have:12
+the	to	not	have:15
+and	what	have:13
+it	what	have:14
+of	what	have:15
+that	what	have:15
+the	what	have:24
+to	you	what	have:13
+is	and	have:13
+is	in	have:14
+it	is	have:17
+is	of	have:18
+that	is	have:21
+is	this	have:23
+you	is	have:28
+the	to	is	have:14
+it	this	have:13
+this	in	have:16
+and	this	have:18
+of	this	have:20
+that	this	have:22
+you	this	have:23
+the	to	this	have:12
+the	of	in	have:14
+that	it	in	have:12
+the	it	in	have:13
+and	in	have:23
+you	in	have:27
+the	that	in	have:13
+the	to	in	have:20
+you	and	of	have:12
+the	and	of	have:13
+the	that	and	have:12
+to	it	and	have:12
+to	you	and	have:13
+the	to	and	have:17
+the	you	and	have:13
+to	it	of	have:12
+the	that	of	have:17
+to	you	of	have:15
+the	to	of	have:20
+the	you	of	have:22
+that	you	it	have:12
+to	you	it	have:18
+the	that	it	have:12
+to	that	it	have:15
+the	to	it	have:19
+the	to	that	have:14
+the	that	you	have:16
+to	that	you	have:20
+the	to	you	have:18
+the	was	are:13
+not	for	are:16
+and	not	are:16
+it	not	are:16
+you	what	not	are:13
+this	not	are:17
+the	of	not	are:13
+is	not	are:18
+that	not	are:21
+to	you	not	are:12
+the	to	not	are:17
+the	you	not	are:12
+in	for	are:12
+is	for	are:12
+of	for	are:13
+what	for	are:15
+this	for	are:15
+and	for	are:17
+that	for	are:18
+to	for	are:20
+it	for	are:22
+the	for	are:27
+you	for	are:32
+this	name	are:13
+name	what	are:14
+of	name	are:15
+is	name	are:15
+it	name	are:15
+that	name	are:17
+to	name	are:18
+and	name	are:21
+the	name	are:29
+you	name	are:33
+this	what	are:15
+of	this	are:15
+this	in	are:16
+it	this	are:16
+that	you	this	are:12
+you	is	this	are:17
+the	you	this	are:13
+the	to	this	are:15
+to	you	this	are:18
+is	in	are:14
+the	is	of	are:12
+is	and	are:17
+the	is	what	are:12
+the	it	is	are:13
+you	it	is	are:14
+to	you	is	are:15
+the	to	is	are:20
+that	you	is	are:15
+the	that	is	are:20
+the	you	is	are:24
+and	what	are:14
+and	in	are:16
+and	of	are:18
+that	and	are:19
+the	it	and	are:14
+to	you	and	are:13
+the	to	and	are:16
+the	you	and	are:13
+in	what	are:15
+the	it	in	are:15
+the	that	in	are:13
+the	of	in	are:19
+the	to	in	are:16
+the	you	in	are:22
+it	of	are:17
+you	of	what	are:13
+the	of	what	are:13
+the	to	of	are:16
+that	you	of	are:14
+the	that	of	are:17
+the	you	of	are:23
+that	you	what	are:12
+it	what	are:23
+to	you	what	are:18
+the	you	what	are:23
+the	that	it	are:14
+to	you	it	are:15
+the	to	it	are:18
+the	you	it	are:19
+the	to	that	are:17
+to	that	you	are:22
+the	that	you	are:21
+the	to	you	are:27
+you	was	for:12
+this	was	for:16
+and	was	for:16
+it	was	for:19
+to	was	for:20
+the	that	was	for:12
+name	not	for:13
+that	not	for:13
+this	not	for:16
+and	not	for:16
+you	not	for:17
+is	not	for:19
+it	not	for:21
+to	not	for:24
+the	not	for:28
+in	what	for:13
+and	what	for:13
+of	what	for:16
+it	what	for:17
+the	that	what	for:13
+this	what	for:22
+to	what	for:23
+the	is	what	for:14
+you	what	for:31
+this	in	for:13
+is	in	for:15
+name	in	for:16
+it	in	for:19
+the	of	in	for:14
+the	and	in	for:12
+the	you	in	for:14
+the	that	in	for:13
+the	to	in	for:13
+the	of	name	for:13
+of	this	for:18
+the	you	of	for:12
+the	and	of	for:12
+it	of	for:21
+to	is	of	for:12
+the	is	of	for:18
+the	that	of	for:16
+the	to	of	for:18
+this	name	for:13
+you	this	for:22
+and	this	for:23
+it	is	this	for:13
+to	it	this	for:15
+the	is	this	for:17
+to	is	this	for:18
+the	to	this	for:19
+it	name	for:18
+you	name	for:22
+the	and	name	for:14
+the	is	name	for:21
+the	that	name	for:13
+the	to	name	for:17
+the	is	and	for:17
+the	you	and	for:12
+the	that	and	for:18
+the	it	and	for:15
+to	it	and	for:17
+the	to	and	for:22
+the	you	is	for:16
+that	it	is	for:12
+to	that	is	for:13
+the	that	is	for:22
+to	it	is	for:16
+the	it	is	for:18
+the	to	is	for:32
+to	you	it	for:13
+to	that	it	for:15
+the	that	it	for:15
+the	to	it	for:24
+to	that	you	for:18
+the	that	you	for:21
+the	to	you	for:21
+the	to	that	for:26
+what	was	not:12
+you	was	not:12
+that	was	not:19
+this	was	not:21
+and	was	not:21
+to	it	was	not:12
+the	to	was	not:12
+the	it	was	not:14
+this	what	not:15
+and	what	not:15
+that	what	not:17
+to	what	not:19
+it	what	not:20
+you	is	what	not:13
+the	what	not:30
+this	name	not:14
+name	in	not:16
+that	name	not:19
+and	name	not:20
+to	name	not:20
+the	is	name	not:17
+of	this	not:17
+to	of	in	not:13
+the	of	in	not:18
+the	and	of	not:15
+to	it	of	not:12
+the	it	of	not:14
+to	you	of	not:12
+the	you	of	not:20
+the	is	of	not:20
+to	that	of	not:13
+the	that	of	not:13
+the	to	of	not:24
+this	in	not:15
+and	in	not:18
+you	in	not:21
+to	it	in	not:12
+the	it	in	not:12
+the	is	in	not:16
+that	in	not:31
+the	to	in	not:17
+and	this	not:19
+that	this	not:20
+it	this	not:23
+to	you	this	not:12
+the	you	this	not:13
+the	is	this	not:16
+the	to	this	not:16
+you	and	not:24
+to	that	and	not:14
+the	that	and	not:16
+the	it	and	not:12
+to	it	and	not:18
+the	is	and	not:21
+the	to	and	not:23
+you	it	not:31
+that	you	is	not:12
+to	that	you	not:12
+the	that	you	not:16
+the	to	you	not:25
+to	it	is	not:15
+the	it	is	not:18
+the	to	that	is	not:12
+to	that	it	not:13
+the	that	it	not:13
+the	to	it	not:23
+is	of	was:14
+is	in	was:15
+is	name	was:15
+is	and	was:15
+is	what	was:16
+to	is	was:16
+that	is	was:23
+is	this	was:24
+the	it	is	was:12
+of	what	was:13
+you	what	was:13
+and	what	was:14
+name	what	was:17
+this	what	was:18
+the	to	what	was:16
+the	it	what	was:14
+that	what	was:31
+you	in	was:12
+you	this	was:14
+you	of	was:17
+you	and	was:18
+the	that	you	was:12
+to	you	it	was:12
+the	to	you	was:14
+the	you	it	was:13
+the	of	in	was:16
+name	in	was:25
+and	in	was:25
+the	this	in	was:14
+the	to	in	was:16
+the	that	in	was:16
+the	it	in	was:26
+the	of	name	was:17
+the	of	this	was:13
+the	to	of	was:16
+the	that	of	was:21
+it	and	of	was:13
+the	and	of	was:21
+the	it	of	was:22
+this	name	was:16
+the	to	name	was:15
+it	and	name	was:13
+the	it	name	was:18
+that	and	name	was:12
+the	that	name	was:16
+the	and	name	was:20
+the	that	this	was:13
+the	and	this	was:14
+to	it	this	was:12
+the	to	this	was:15
+the	it	this	was:19
+to	that	and	was:12
+that	it	and	was:16
+the	that	and	was:25
+to	it	and	was:15
+the	to	and	was:22
+the	it	and	was:31
+the	to	that	was:19
+to	that	it	was:20
+the	to	it	was:24
+the	that	it	was:29
+and	in	what:13
+it	in	what:14
+name	in	what:15
+that	in	what:17
+the	of	in	what:12
+the	is	in	what:13
+you	in	what:26
+the	to	in	what:13
+that	this	what:13
+and	this	what:16
+it	is	this	what:12
+of	this	what:20
+you	this	what:24
+to	is	this	what:12
+the	is	this	what:12
+the	of	name	what:14
+the	it	name	what:13
+you	name	what:23
+the	that	name	what:17
+the	and	name	what:12
+to	and	name	what:14
+to	is	name	what:12
+the	is	name	what:19
+the	to	name	what:16
+the	and	of	what:17
+the	that	and	what:15
+the	is	and	what:16
+the	it	and	what:12
+the	you	and	what:13
+the	to	and	what:20
+the	that	of	what:21
+to	it	of	what:14
+the	it	of	what:15
+the	is	of	what:21
+to	you	of	what:15
+the	to	of	what:21
+the	you	of	what:23
+the	that	it	what:14
+the	you	it	what:14
+to	you	it	what:17
+the	it	is	what:13
+to	it	is	what:16
+the	to	it	what:24
+that	you	is	what:16
+the	that	is	what:18
+to	that	you	what:16
+the	to	that	what:17
+the	that	you	what:16
+to	you	is	what:15
+the	to	is	what:19
+the	you	is	what:21
+the	to	you	what:23
+the	it	name	in:13
+the	this	name	in:12
+you	name	in:24
+the	of	name	in:21
+that	and	name	in:13
+the	and	name	in:20
+to	that	name	in:12
+the	to	name	in:13
+the	is	name	in:18
+the	that	name	in:17
+it	this	in:20
+the	of	this	in:16
+you	is	this	in:14
+to	that	this	in:14
+the	that	this	in:14
+the	and	this	in:16
+to	is	this	in:17
+the	to	this	in:20
+the	is	this	in:29
+the	you	and	in:12
+is	and	of	in:13
+to	is	and	in:16
+the	is	and	in:20
+to	it	and	in:17
+the	it	and	in:27
+that	and	of	in:12
+to	that	and	in:15
+the	that	and	in:21
+to	and	of	in:16
+the	and	of	in:30
+the	to	and	in:37
+to	it	of	in:13
+the	it	of	in:25
+to	you	it	in:15
+the	you	it	in:19
+to	it	is	in:14
+the	it	is	in:19
+to	that	it	in:16
+the	that	it	in:22
+the	to	it	in:33
+to	you	of	in:12
+that	you	of	in:13
+the	you	of	in:23
+to	is	of	in:14
+the	is	of	in:23
+to	that	of	in:13
+the	that	of	in:38
+the	to	of	in:36
+that	you	is	in:13
+to	you	is	in:18
+the	you	is	in:21
+to	that	is	in:17
+the	that	is	in:22
+the	to	is	in:32
+to	that	you	in:19
+the	to	you	in:29
+the	that	you	in:25
+the	to	that	in:32
+it	is	this	name:13
+you	this	name:20
+and	this	name:22
+of	this	name:26
+to	is	this	name:13
+the	that	this	name:13
+that	is	this	name:16
+the	is	this	name:21
+you	it	name:16
+the	to	you	name:15
+the	you	of	name:20
+the	you	and	name:13
+the	you	is	name:15
+that	you	is	name:17
+the	that	you	name:16
+the	it	of	name:13
+the	to	of	name:22
+that	is	of	name:17
+the	that	and	of	name:14
+is	and	of	name:13
+the	is	of	name:29
+that	it	and	name:12
+to	that	it	name:12
+the	that	it	name:18
+to	it	is	name:14
+the	it	is	name:21
+to	it	and	name:15
+the	to	it	name:24
+the	it	and	name:18
+to	is	and	name:14
+that	is	and	name:19
+the	is	and	name:26
+to	that	and	name:17
+the	to	and	name:25
+to	that	is	name:17
+the	to	that	name:29
+the	to	is	name:32
+the	that	is	name:32
+that	it	is	this:14
+that	of	this:26
+the	that	and	this:15
+to	that	you	this:13
+that	you	is	this:14
+the	to	that	this:18
+to	that	is	this:27
+the	that	is	this:25
+the	and	of	this:16
+you	and	this:26
+the	it	is	and	this:12
+to	it	and	this:20
+to	is	and	this:18
+the	to	and	this:19
+you	of	this:25
+it	is	of	this:16
+the	it	of	this:19
+the	to	is	of	this:12
+you	it	this:25
+the	to	you	this:18
+the	you	is	this:21
+to	you	is	this:18
+the	to	it	is	this:14
+that	you	and	of:14
+the	you	and	of:22
+that	it	and	of:12
+to	it	and	of:12
+it	is	and	of:14
+the	it	and	of:24
+the	that	is	and	of:13
+the	to	is	and	of:14
+the	to	that	and	of:13
+the	that	you	is	of:12
+that	it	is	of:17
+to	it	is	of:19
+the	it	is	of:29
+to	that	is	of:15
+to	you	it	of:18
+the	you	it	of:20
+to	that	you	of:18
+the	to	you	of:38
+to	that	it	of:14
+the	that	it	of:32
+the	to	it	of:35
+you	is	and:37
+the	that	it	is	and:12
+the	to	it	is	and:13
+the	to	that	is	and:14
+the	to	you	it	and:15
+to	that	you	and:18
+the	that	you	and:24
+to	that	it	and:20
+that	you	it	is:16
+to	you	it	is:21
+the	you	it	is:24
+to	that	you	is:20
+the	to	you	is:31
+to	that	it	is:23
+the	that	you	it:15
+to	that	you	it:23
+the	to	that	it:35
+the	to	that	you:39
